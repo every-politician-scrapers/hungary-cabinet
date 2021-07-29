@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q52225870",
-    "lang":    "hu",
-    "agent":   "every-politican-scrapers/hungary-cabinet"
+    "cabinet": {
+      "id": "Q52225870",
+      "start": "2018-05-18"
+    },
+    "source": {
+        "url":   "https://kormany.hu/a-kormany-tagjai",
+        "title": "A KORMÁNY TAGJAI",
+        "lang":  {
+            "code": "hu",
+            "wikidata": "Q9067"
+        }
+    },
+    "agent": "every-politican-scrapers/hungary-cabinet"
 }
