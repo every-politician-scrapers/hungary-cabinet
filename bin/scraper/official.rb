@@ -5,8 +5,7 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     field :name do
       noko.css('.name').text.tidy
     end
@@ -16,8 +15,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
+  class Members
     field :members do
       member_container.map { |member| fragment(member => Member).to_h }
     end

@@ -1,16 +1,16 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q793043,Dr. Benkő Tibor,Benkő Tibor,male,1955-10-16T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q282907,honvédelmi miniszter,Q793043-fd638c1b-48df-d4a8-657b-71accae63c22
-Q16197131,Dr. Nagy István,Nagy István,male,1967-10-06T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50586594,agrárminiszter,Q16197131-E675BC1B-1E86-4146-8129-56C7C2FEA861
-Q1228425,Dr. Palkovics László,Palkovics László,male,1965-02-03T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q107610345,innovációs és technológiai miniszter,Q1228425-D71EBE0A-3B87-4A11-BCC2-ADCD810DF10B
-Q55574,Dr. Semjén Zsolt,Semjén Zsolt,male,1962-08-08T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q61411735,"nemzetpolitikáért, egyházügyekért és nemzetiségekért felelős miniszterelnök-helyettes",Q55574-200de34c-47d4-f5b8-88f3-92a888bb05a8
-Q53764750,Mager Andrea,Bártfai-Mager Andrea,female,,,https://kormany.hu/a-kormany-tagjai,Q59390956,a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter,Q53764750-51cef76d-4e15-edc2-9e78-59c16757638c
-Q21995345,Novák Katalin,Novák Katalin,female,1977-09-06T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q107610390,családokért felelős tárca nélküli miniszter,Q21995345-F4156116-FEFD-4286-838A-DFD977B75503
-Q23925538,Prof. Dr. Kásler Miklós,Kásler Miklós,male,1950-03-01T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q24205239,emberi erőforrások minisztere,Q23925538-7f8430ed-4da3-4c7b-6825-46d8492a3c16
-Q1249804,Rogán Antal,Rogán Antal,male,1972-01-29T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50586423,a miniszterelnök kabinetfőnöke,Q1249804-A68236B6-D4DF-46E3-85C7-D6EFEAB9FE69
-Q685293,Szijjártó Péter,Szijjártó Péter,male,1978-10-30T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50586116,külgazdasági és külügyminiszter,Q685293-cf027986-4d93-a91c-7989-10b34604dc3d
-Q30134885,Süli János,Süli János,male,1956-01-26T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q51955028,a Paksi Atomerőmű bővítéséért felelős tárca nélküli miniszter,Q30134885-7a2f6687-4707-252d-0982-871151ba38af
-Q1401791,Varga Mihály,Varga Mihály,male,1965-01-26T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50586209,"pénzügyminiszter, miniszterelnök-helyettes",Q1401791-0EB604E4-356B-4EA8-8BC9-DFD8CF6FE55C
-Q5550584,dr. Gulyás Gergely,Gulyás Gergely,male,1981-09-21T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50588061,Miniszterelnökséget vezető miniszter,Q5550584-576F7E9F-AA03-4036-862D-0ACA90F03B9B
-Q57641,dr. Orbán Viktor,Orbán Viktor,male,1963-05-31T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q3315094,miniszterelnök,Q57641-5b514d8c-44f8-43e1-356c-44d9541e4490
-Q549589,dr. Pintér Sándor,Pintér Sándor,male,1948-07-03T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q30577840,"belügyminiszter, miniszterelnök-helyettes",Q549589-d0e53ae0-4e86-b336-dd79-0ed773b50aeb
-Q63224253,dr. Varga Judit,Varga Judit,female,1980-09-10T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,Q50586662,igazságügyi miniszter,Q63224253-3aec9227-42a7-6a13-6e48-c5d9d55cb09b
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q793043,Dr. Benkő Tibor,Benkő Tibor,male,1955-10-16T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q282907,honvédelmi miniszter,Q793043-fd638c1b-48df-d4a8-657b-71accae63c22
+Q16197131,Dr. Nagy István,Nagy István,male,1967-10-06T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50586594,agrárminiszter,Q16197131-E675BC1B-1E86-4146-8129-56C7C2FEA861
+Q1228425,Dr. Palkovics László,Palkovics László,male,1965-02-03T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q107610345,innovációs és technológiai miniszter,Q1228425-D71EBE0A-3B87-4A11-BCC2-ADCD810DF10B
+Q55574,Dr. Semjén Zsolt,Semjén Zsolt,male,1962-08-08T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q61411735,"nemzetpolitikáért, egyházügyekért és nemzetiségekért felelős miniszterelnök-helyettes",Q55574-200de34c-47d4-f5b8-88f3-92a888bb05a8
+Q53764750,Mager Andrea,Bártfai-Mager Andrea,female,,,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q59390956,a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter,Q53764750-51cef76d-4e15-edc2-9e78-59c16757638c
+Q21995345,Novák Katalin,Novák Katalin,female,1977-09-06T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q107610390,családokért felelős tárca nélküli miniszter,Q21995345-F4156116-FEFD-4286-838A-DFD977B75503
+Q23925538,Prof. Dr. Kásler Miklós,Kásler Miklós,male,1950-03-01T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q24205239,emberi erőforrások minisztere,Q23925538-7f8430ed-4da3-4c7b-6825-46d8492a3c16
+Q1249804,Rogán Antal,Rogán Antal,male,1972-01-29T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50586423,a miniszterelnök kabinetfőnöke,Q1249804-A68236B6-D4DF-46E3-85C7-D6EFEAB9FE69
+Q685293,Szijjártó Péter,Szijjártó Péter,male,1978-10-30T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50586116,külgazdasági és külügyminiszter,Q685293-cf027986-4d93-a91c-7989-10b34604dc3d
+Q30134885,Süli János,Süli János,male,1956-01-26T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q51955028,a Paksi Atomerőmű bővítéséért felelős tárca nélküli miniszter,Q30134885-7a2f6687-4707-252d-0982-871151ba38af
+Q1401791,Varga Mihály,Varga Mihály,male,1965-01-26T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50586209,"pénzügyminiszter, miniszterelnök-helyettes",Q1401791-0EB604E4-356B-4EA8-8BC9-DFD8CF6FE55C
+Q5550584,dr. Gulyás Gergely,Gulyás Gergely,male,1981-09-21T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50588061,Miniszterelnökséget vezető miniszter,Q5550584-576F7E9F-AA03-4036-862D-0ACA90F03B9B
+Q57641,dr. Orbán Viktor,Orbán Viktor,male,1963-05-31T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q3315094,miniszterelnök,Q57641-5b514d8c-44f8-43e1-356c-44d9541e4490
+Q549589,dr. Pintér Sándor,Pintér Sándor,male,1948-07-03T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q30577840,"belügyminiszter, miniszterelnök-helyettes",Q549589-d0e53ae0-4e86-b336-dd79-0ed773b50aeb
+Q63224253,dr. Varga Judit,Varga Judit,female,1980-09-10T00:00:00Z,11,https://kormany.hu/a-kormany-tagjai,2021-07-22T00:00:00Z,Q50586662,igazságügyi miniszter,Q63224253-3aec9227-42a7-6a13-6e48-c5d9d55cb09b
