@@ -285,7 +285,7 @@
               ]
             },
             {
-              "text": "Between 2010 to 2020, Hungary dropped 69 places in the Press Freedom Index and 11 places in the Democracy Index;  Freedom House has downgraded the country from \"free\" to \"partly free.\"",
+              "text": "Between 2010 and 2020, Hungary dropped 69 places in the Press Freedom Index and 11 places in the Democracy Index;  Freedom House has downgraded the country from \"free\" to \"partly free.\"",
               "links": [
                 {
                   "type": "internal",
@@ -2803,7 +2803,7 @@
               ]
             },
             {
-              "text": "In October 2021, Orbán blamed a record-breaking surge in energy prices on the European Commission’s Green Deal plans.",
+              "text": "In October 2021, Orbán blamed a record-breaking surge in energy prices on the European Commission's Green Deal plans.",
               "links": [
                 {
                   "text": "Green Deal",
@@ -3277,7 +3277,7 @@
         {
           "sentences": [
             {
-              "text": "His anti-LGBT+ positions came under more scrutiny after the revelation that one of the European deputies of his party, József Szájer, had participated in a gay sex party in Brussels, despite the ongoing COVID 19 pandemic quarantine restrictions.",
+              "text": "His anti-LGBT+ positions came under more scrutiny after the revelation that one of the European deputies of his party, József Szájer, had participated in a gay sex party in Brussels, despite the ongoing COVID-19 pandemic quarantine restrictions.",
               "links": [
                 {
                   "type": "internal",
@@ -3288,7 +3288,6 @@
                   "page": "Brussels"
                 },
                 {
-                  "text": "COVID 19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic"
                 },
@@ -4675,6 +4674,20 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "text": "Tiborcz István",
+          "lan1": "hu",
+          "text1": "István Tiborcz",
+          "template": "ill"
+        },
+        {
+          "text": "Elios case",
+          "lan1": "hu",
+          "text1": "Elios-ügy",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "language": "hu",
@@ -4829,7 +4842,7 @@
               ]
             },
             {
-              "text": "Blatter, together with the widow of Ferenc Puskás, as well as Orbán, founder of the Academy, announced the creation of the new FIFA Puskás Award during that visit.",
+              "text": "Blatter, together with the widow of Ferenc Puskás, as well as Orbán, founder of the academy, announced the creation of the new FIFA Puskás Award during that visit.",
               "links": [
                 {
                   "type": "internal",
@@ -4945,6 +4958,14 @@
       "paragraphs": [
         {
           "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "First Orbán Government",
+          "lan1": "hu",
+          "text1": "Első Orbán-kormány",
+          "template": "ill"
         }
       ],
       "lists": [
