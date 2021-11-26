@@ -200,12 +200,24 @@
           "term_start1": {
             "text": "21 May 2021"
           },
+          "term_end1": {
+            "text": "17 November 2021"
+          },
           "predecessor1": {
             "text": "Heiko Maas",
             "links": [
               {
                 "type": "internal",
                 "page": "Heiko Maas"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Luigi Di Maio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luigi Di Maio"
               }
             ]
           },
