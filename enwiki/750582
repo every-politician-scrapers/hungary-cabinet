@@ -4301,131 +4301,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was accused of pork barrel politics for building a 4,000-seat stadium in the village in which he grew up, Felcsút, at a distance of some 20 ft from his country house.",
-              "links": [
-                {
-                  "text": "pork barrel",
-                  "type": "internal",
-                  "page": "pork barrel"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Some opposition parties and critics also consider Orbán an opponent of European integration."
-            },
-            {
-              "text": "In 2000, opposition parties MSZP and SZDSZ and the left-wing press presented Orbán's comment that \"there's life outside the EU\" as proof of his anti-Europeanism and sympathies with the radical right.",
-              "links": [
-                {
-                  "text": "anti-Europeanism",
-                  "type": "internal",
-                  "page": "anti-Europeanism"
-                },
-                {
-                  "text": "radical right",
-                  "type": "internal",
-                  "page": "Radical right (Europe)"
-                }
-              ]
-            },
-            {
-              "text": "In the same press conference, Orbán clarified that \"[w]e're trying to make the accession fast because it may boost the growth of Hungary's economy.\""
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Hungarian-American business magnate and political activist George Soros criticized Orbán's handling of the European migrant crisis in 2015, saying: \"His plan treats the protection of national borders as the objective and the refugees as an obstacle. Our plan treats the protection of refugees as the objective and national borders as the obstacle.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "George Soros"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The Orbán government began to attack Soros and his NGOs in early 2017, particularly for his support for more open immigration."
-            },
-            {
-              "text": "In July 2017, the Israeli ambassador in Hungary joined Jewish groups and others in denouncing a billboard campaign backed by the government."
-            },
-            {
-              "text": "Orbán's critics claimed it \"evokes memories of the Nazi posters during the Second World War\".",
-              "links": [
-                {
-                  "text": "Second World War",
-                  "type": "internal",
-                  "page": "World War II"
-                }
-              ]
-            },
-            {
-              "text": "The ambassador stated that the campaign \"evokes sad memories but also sows hatred and fear\", an apparent reference to the Holocaust."
-            },
-            {
-              "text": "Hours later, Israel's Ministry of Foreign Affairs issued a \"clarification\", denouncing Soros, stating that he \"continuously undermines Israel's democratically elected governments\" and funded organizations \"that defame the Jewish state and seek to deny it the right to defend itself\".",
-              "links": [
-                {
-                  "text": "Ministry of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Israel)"
-                }
-              ]
-            },
-            {
-              "text": "The clarification came a few days before an official visit to Hungary by Israeli Prime Minister Benjamin Netanyahu."
-            },
-            {
-              "text": "The anti-Soros messages became key elements of the government's communication and campaign since then, which, among others, also targeted the Central European University (CEU).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central European University"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Following a decade of Fidesz–KDNP rule led by Orbán, Freedom House's Nations in Transit 2020 report reclassified Hungary from a democracy to a transitional or hybrid regime.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Freedom House"
-                },
-                {
-                  "text": "democracy",
-                  "type": "internal",
-                  "page": "democracy"
-                },
-                {
-                  "text": "hybrid regime",
-                  "type": "internal",
-                  "page": "hybrid regime"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Nations in Transit 2020"
-                ]
-              }
-            }
-          ]
         }
       ],
       "references": [
@@ -4490,7 +4365,73 @@
           "access-date": "6 July 2021",
           "template": "citation",
           "type": "web"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Pork Barrel spending",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was accused of pork barrel politics for building a 4,000-seat stadium in the village in which he grew up, Felcsút, at a distance of some 20 ft from his country house.",
+              "links": [
+                {
+                  "text": "pork barrel",
+                  "type": "internal",
+                  "page": "pork barrel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nytimes.com/2014/04/04/business/international/the-village-stadium-a-symbol-of-power-for-hungarys-premier.html",
+          "title": "A village stadium is a symbol of power for Hungary's premier",
+          "newspaper": "The New York Times",
+          "first": "Danny",
+          "last": "Hakim",
+          "date": "3 April 2014",
+          "access-date": "1 May 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Opposition to European integration",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Some opposition parties and critics also consider Orbán an opponent of European integration."
+            },
+            {
+              "text": "In 2000, opposition parties MSZP and SZDSZ and the left-wing press presented Orbán's comment that \"there's life outside the EU\" as proof of his anti-Europeanism and sympathies with the radical right.",
+              "links": [
+                {
+                  "text": "anti-Europeanism",
+                  "type": "internal",
+                  "page": "anti-Europeanism"
+                },
+                {
+                  "text": "radical right",
+                  "type": "internal",
+                  "page": "Radical right (Europe)"
+                }
+              ]
+            },
+            {
+              "text": "In the same press conference, Orbán clarified that \"[w]e're trying to make the accession fast because it may boost the growth of Hungary's economy.\""
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "title": "Orbán: van élet az EU-n kívül is",
           "url": "http://ujszo.com/cimkek/regi-online-kiadas/2002/02/01/orban-van-elet-az-eu-n-kivul-is",
@@ -4511,6 +4452,93 @@
           "template": "citation",
           "type": "web"
         },
+        {
+          "date": "April 2018",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Migrant Crisis",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hungarian-American business magnate and political activist George Soros criticized Orbán's handling of the European migrant crisis in 2015, saying: \"His plan treats the protection of national borders as the objective and the refugees as an obstacle. Our plan treats the protection of refugees as the objective and national borders as the obstacle.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "George Soros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Orbán government began to attack Soros and his NGOs in early 2017, particularly for his support for more open immigration."
+            },
+            {
+              "text": "In July 2017, the Israeli ambassador in Hungary joined Jewish groups and others in denouncing a billboard campaign backed by the government."
+            },
+            {
+              "text": "Orbán's critics claimed it \"evokes memories of the Nazi posters during the Second World War\".",
+              "links": [
+                {
+                  "text": "Second World War",
+                  "type": "internal",
+                  "page": "World War II"
+                }
+              ]
+            },
+            {
+              "text": "The ambassador stated that the campaign \"evokes sad memories but also sows hatred and fear\", an apparent reference to the Holocaust."
+            },
+            {
+              "text": "Hours later, Israel's Ministry of Foreign Affairs issued a \"clarification\", denouncing Soros, stating that he \"continuously undermines Israel's democratically elected governments\" and funded organizations \"that defame the Jewish state and seek to deny it the right to defend itself\".",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Israel)"
+                }
+              ]
+            },
+            {
+              "text": "The clarification came a few days before an official visit to Hungary by Israeli Prime Minister Benjamin Netanyahu."
+            },
+            {
+              "text": "The anti-Soros messages became key elements of the government's communication and campaign since then, which, among others, also targeted the Central European University (CEU).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central European University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Orban has been criticized for engineering the 2015 European migrant crisis for his own political gain.",
+              "links": [
+                {
+                  "text": "2015 European migrant crisis",
+                  "type": "internal",
+                  "page": "European migrant crisis"
+                }
+              ]
+            },
+            {
+              "text": "Mistreating migrants within Hungary, and later sending many to Western Europe in an effort to stoke far right sympathies"
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "url": "https://www.bloomberg.com/news/articles/2015-10-30/orban-accuses-soros-of-stoking-refugee-wave-to-weaken-europe",
           "title": "Orbán accuses Soros of stoking refugee wave to weaken Europe",
@@ -4579,6 +4607,64 @@
           "type": "news"
         },
         {
+          "date": "2016-03-02",
+          "title": "Viktor Orban Uses Migrant Crisis to Shore Up His Sagging Popularity",
+          "url": "https://www.piie.com/commentary/op-eds/viktor-orban-uses-migrant-crisis-shore-his-sagging-popularity",
+          "access-date": "2021-11-28",
+          "website": "PIIE",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Beauchamp",
+          "first": "Zack",
+          "date": "2015-09-18",
+          "title": "\"Like animals:\" why Hungary is herding refugees into miserable detention camps",
+          "url": "https://www.vox.com/2015/9/18/9349081/syrian-refugees-hungary-viktor-orban",
+          "access-date": "2021-11-28",
+          "website": "Vox",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Democratic backsliding",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following a decade of Fidesz–KDNP rule led by Orbán, Freedom House's Nations in Transit 2020 report reclassified Hungary from a democracy to a transitional or hybrid regime.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Freedom House"
+                },
+                {
+                  "text": "democracy",
+                  "type": "internal",
+                  "page": "democracy"
+                },
+                {
+                  "text": "hybrid regime",
+                  "type": "internal",
+                  "page": "hybrid regime"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Nations in Transit 2020"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
           "title": "Hungary",
           "url": "https://freedomhouse.org/country/hungary/nations-transit/2020",
           "date": "2020",
@@ -4587,21 +4673,6 @@
           "access-date": "2020-05-06",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "https://www.nytimes.com/2014/04/04/business/international/the-village-stadium-a-symbol-of-power-for-hungarys-premier.html",
-          "title": "A village stadium is a symbol of power for Hungary's premier",
-          "newspaper": "The New York Times",
-          "first": "Danny",
-          "last": "Hakim",
-          "date": "3 April 2014",
-          "access-date": "1 May 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "April 2018",
-          "template": "citation needed"
         }
       ]
     },
