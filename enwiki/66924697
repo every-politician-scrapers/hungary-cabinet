@@ -179,27 +179,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "hungarianjusticeministers"
-        },
-        {
-          "template": "fourth orbán government"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "hungary-politician-stub"
-        }
-      ]
     }
   ]
 }

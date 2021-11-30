@@ -196,24 +196,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "fourth orbán government"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "hungary-politician-stub"
-        }
-      ]
     }
   ]
 }
