@@ -249,6 +249,20 @@
                   "page": "list of Prime Ministers of Hungary by tenure"
                 }
               ]
+            },
+            {
+              "text": "In December 2021, he became the longest-serving incumbent head of government in the European Union.",
+              "links": [
+                {
+                  "text": "head of government",
+                  "type": "internal",
+                  "page": "head of government"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
             }
           ]
         },
