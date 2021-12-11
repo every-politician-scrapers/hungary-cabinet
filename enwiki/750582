@@ -614,26 +614,6 @@
           },
           "signature": {
             "text": "Accession Treaty 2011 Viktor Orbán signature.svg"
-          },
-          "honorific_suffix": {
-            "text": "ONM MP PM",
-            "links": [
-              {
-                "text": "ONM",
-                "type": "internal",
-                "page": "Ordre national du Mérite"
-              },
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "List of members of the National Assembly of Hungary (2018–2022)"
-              },
-              {
-                "text": "PM",
-                "type": "internal",
-                "page": "Prime minister of Hungary"
-              }
-            ]
           }
         }
       ],
