@@ -614,6 +614,16 @@
           },
           "signature": {
             "text": "Accession Treaty 2011 Viktor Orbán signature.svg"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "List of members of the National Assembly of Hungary (2018–2022)"
+              }
+            ]
           }
         }
       ],
