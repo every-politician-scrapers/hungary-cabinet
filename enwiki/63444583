@@ -6,7 +6,7 @@
     "Hungarian economists",
     "Women government ministers of Hungary",
     "Members of the Fourth Orbán Government",
-    "Year of birth missing (living people)"
+    "1966 births"
   ],
   "sections": [
     {
@@ -55,12 +55,12 @@
       ],
       "templates": [
         {
-          "date": "March 2020",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Hungarian politician",
           "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
         },
         {
           "list": [
