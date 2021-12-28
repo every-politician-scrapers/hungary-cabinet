@@ -225,6 +225,11 @@
               {
                 "type": "internal",
                 "page": "Budapest"
+              },
+              {
+                "text": "Hungary",
+                "type": "internal",
+                "page": "Hungarian People's Republic"
               }
             ]
           },
