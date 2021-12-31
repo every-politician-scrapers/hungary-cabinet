@@ -38,6 +38,9 @@
                   "Katalin Éva Veresné Novák"
                 ]
               }
+            },
+            {
+              "text": "She is also Fidesz’s nominee to be President of Hungary in the 2022 election."
             }
           ]
         }
@@ -80,6 +83,9 @@
           },
           "term_start": {
             "text": "1 October 2020"
+          },
+          "term_end": {
+            "text": "31 December 2021"
           },
           "predecessor": {
             "text": "herself as Secretary of State"
