@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Katalin Éva Veresné Novák (born 6 September 1977) is a government minister and Member of Parliament in Hungary, as well as vice president of the Fidesz party.",
+              "text": "Katalin Éva Veresné Novák (born 6 September 1977) has served as a government minister and is a Member of Parliament in Hungary, as well as vice president of the Fidesz party.",
               "links": [
                 {
                   "text": "Parliament",
@@ -40,7 +40,14 @@
               }
             },
             {
-              "text": "She is also Fidesz’s nominee to be President of Hungary in the 2022 election."
+              "text": "She is also Fidesz’s nominee to be President of Hungary in the 2022 election.",
+              "links": [
+                {
+                  "text": "2022 election",
+                  "type": "internal",
+                  "page": "2022 Hungarian presidential election"
+                }
+              ]
             }
           ]
         }
@@ -70,7 +77,7 @@
             "text": "Katalin Novák in 2017"
           },
           "office": {
-            "text": "Minister without portfolio for Family Affairs"
+            "text": "Minister for Family Affairs"
           },
           "primeminister": {
             "text": "Viktor Orbán",
