@@ -256,41 +256,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Kósa Lajos hibátlanul letette az esküt!",
-          "url": "http://index.hu/belfold/2017/10/02/parlament/",
-          "accessdate": "2 October 2017",
-          "publisher": "Index.hu",
-          "date": "2 October 2017",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

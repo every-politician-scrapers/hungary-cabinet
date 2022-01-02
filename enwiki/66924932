@@ -175,26 +175,6 @@
           "lc": "yes",
           "template": "as of"
         }
-      ],
-      "references": [
-        {
-          "title": "Prof. Dr. László Palkovics",
-          "url": "http://www.scholze-simmel.at/ipts/wp-content/uploads/2011/07/Palkovics-CV.pdf",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "website": "Werbegrafik Scholze-Simmel",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "László Palkovics",
-          "url": "https://2020.energydialogue.berlin/person/prof-dr-laszlo-palkovics/",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "website": "Berlin Energy Transition Dialogue",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
