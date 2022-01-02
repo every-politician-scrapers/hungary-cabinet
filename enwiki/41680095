@@ -260,22 +260,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parlament.hu/kepv/eletrajz/hu/r008.pdf",
-          "title": "Biography",
-          "publisher": "Országgyűlés",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parlament.hu/internet/plsql/ogy_kpv.kepv_adat?p_azon=r008&p_ckl=39",
-          "title": "Register",
-          "publisher": "Országgyűlés",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

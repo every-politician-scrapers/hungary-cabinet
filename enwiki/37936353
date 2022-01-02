@@ -136,22 +136,6 @@
             "text": "Eszter\nZoltán"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parlament.hu/kepv/eletrajz/hu/k018.htm",
-          "title": "Biography",
-          "publisher": "Országgyűlés",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parlament.hu/internet/plsql/ogy_kpv.kepv_adat?p_azon=k018&p_ckl=39",
-          "title": "Register",
-          "publisher": "Országgyűlés",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

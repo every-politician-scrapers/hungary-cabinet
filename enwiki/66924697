@@ -157,27 +157,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Curriculum Vitae",
-          "url": "https://brexit.kormany.hu/download/a/11/62000/VARGA%20Judit_CV_EN.pdf",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "website": "Europass CV",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "12 July 2019",
-          "title": "PM Orbán wishes \"striker\" Justice Minister luck in her new role",
-          "work": "About Hungary",
-          "url": "http://abouthungary.hu/news-in-brief/pm-orban-wishes-striker-justice-minister-luck-in-her-new-role/",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

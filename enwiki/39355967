@@ -143,15 +143,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parlament.hu/kepv/eletrajz/hu/n031.pdf",
-          "title": "Biography",
-          "publisher": "Országgyűlés",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

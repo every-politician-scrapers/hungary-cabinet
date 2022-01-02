@@ -106,25 +106,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://index.hu/belfold/2021/02/04/bartfai_nelkul_mager_andrea/",
-          "title": "Elvált Bártfai-Mager Andrea, az Orbán-kormány nemzeti vagyonért felelős minisztere",
-          "language": "hu",
-          "author": "FARKASA",
-          "website": "index.hu",
-          "date": "4 February 2021",
-          "access-date": "21 October 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
