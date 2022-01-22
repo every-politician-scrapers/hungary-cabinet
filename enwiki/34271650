@@ -224,6 +224,21 @@
           },
           "children": {
             "text": "Miksa"
+          },
+          "honorific_suffix": {
+            "text": "M MGA",
+            "links": [
+              {
+                "text": "M",
+                "type": "internal",
+                "page": "Mayor of Budapest"
+              },
+              {
+                "text": "MGA",
+                "type": "internal",
+                "page": "General Assembly of Budapest"
+              }
+            ]
           }
         }
       ]
