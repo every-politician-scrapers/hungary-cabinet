@@ -61,9 +61,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q20480044,Károly Grósz' Cabinet,1987-06-25,11,,,1988-11-24,11,,,Q20481736,Q20481736,,,,,Q1220621,Németh cabinet
 ,Q1220621,Németh cabinet,1988-11-24,11,,,1990-05-23,11,,,,,Q771807,Q771807,Q20480044,Károly Grósz' Cabinet,,
 ,Q771807,Q771807,1990-05-23,11,,,1993-12-12,11,,,Q1220621,Németh cabinet,Q835249,Q835249,,,,
-,Q835249,Q835249,1993-12-21,11,,,1994-06-15,11,,,Q771807,Q771807,Q1055158,Q1055158,,,,
-,Q1055158,Q1055158,1994-07-15,11,,,1998-07-08,11,,,Q835249,Q835249,Q540401,First government of Victor Orban,,,,
-,Q540401,First government of Victor Orban,1998-07-08,11,,,2002-05-27,11,,,Q1055158,Q1055158,Q923078,Medgyessy cabinet,,,,
+,Q835249,Q835249,1993-12-21,11,,,1994-06-15,11,,,Q771807,Q771807,Q1055158,Horn Government,,,,
+,Q1055158,Horn Government,1994-07-15,11,,,1998-07-08,11,,,Q835249,Q835249,Q540401,First government of Victor Orban,,,,
+,Q540401,First government of Victor Orban,1998-07-08,11,,,2002-05-27,11,,,Q1055158,Horn Government,Q923078,Medgyessy cabinet,,,,
 ,Q923078,Medgyessy cabinet,2002-05-27,11,,,2004-10-04,11,,,Q540401,First government of Victor Orban,Q989051,first cabinet of Ferenc Gyurcsány,,,,
 ,Q989051,first cabinet of Ferenc Gyurcsány,2004-10-04,11,,,2006-06-09,11,,,Q923078,Medgyessy cabinet,Q819146,second cabinet of Ferenc Gyurcsány,,,,
 ,Q819146,second cabinet of Ferenc Gyurcsány,2006-06-09,11,,,2009-04-14,11,,,Q989051,first cabinet of Ferenc Gyurcsány,Q367347,Cabinet of Gordon Bajnai,,,,
