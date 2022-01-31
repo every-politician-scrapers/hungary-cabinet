@@ -4,7 +4,6 @@
   "categories": [
     "1975 births",
     "Living people",
-    "Hungarian academics",
     "LMP – Hungary's Green Party politicians",
     "Dialogue for Hungary politicians",
     "Members of the National Assembly of Hungary (2010–2014)",
@@ -20,17 +19,12 @@
         {
           "sentences": [
             {
-              "text": "Gergely Szilveszter Karácsony (born 11 June 1975) is a Hungarian political scientist, politician and current Mayor of Budapest.",
+              "text": "Gergely Szilveszter Karácsony (born 11 June 1975) is a Hungarian politician, political scientist and current Mayor of Budapest.",
               "links": [
                 {
                   "text": "political scientist",
                   "type": "internal",
                   "page": "Political science"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
                 },
                 {
                   "type": "internal",
@@ -208,22 +202,32 @@
             "text": "Political scientist, politician"
           },
           "party": {
-            "text": "LMP (2009–2013)\nPM (2013–present)",
+            "text": "PM (2013–present)\nLMP (2009–2013)",
             "links": [
-              {
-                "text": "LMP",
-                "type": "internal",
-                "page": "Politics Can Be Different"
-              },
               {
                 "text": "PM",
                 "type": "internal",
                 "page": "Dialogue for Hungary"
+              },
+              {
+                "text": "LMP",
+                "type": "internal",
+                "page": "Politics Can Be Different"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "United for Hungary (2020–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United for Hungary"
               }
             ]
           },
           "children": {
-            "text": "Miksa"
+            "text": "1",
+            "number": 1
           },
           "honorific_suffix": {
             "text": "M MGA",
