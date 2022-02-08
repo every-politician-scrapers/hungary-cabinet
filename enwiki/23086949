@@ -28,23 +28,8 @@
         {
           "sentences": [
             {
-              "text": "János Áder (born 9 May 1959) is a Hungarian politician and lawyer who has been President of Hungary since 10 May 2012.",
+              "text": "János Áder (born 9 May 1959) is a Hungarian politician and lawyer who has served as President of Hungary since 10 May 2012.",
               "links": [
-                {
-                  "text": "Hungarian",
-                  "type": "internal",
-                  "page": "Hungarians"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "lawyer",
-                  "type": "internal",
-                  "page": "lawyer"
-                },
                 {
                   "type": "internal",
                   "page": "President of Hungary"
@@ -91,7 +76,7 @@
           "list": [
             "Áder János"
           ],
-          "template": "western name order"
+          "template": "hungarian name"
         },
         {
           "year": "1959",
@@ -242,7 +227,7 @@
               {
                 "text": "Hungary",
                 "type": "internal",
-                "page": "People's Republic of Hungary"
+                "page": "Hungarian People's Republic"
               }
             ]
           },
@@ -278,7 +263,8 @@
             "text": "Anita Herczegh"
           },
           "children": {
-            "text": "Orsolya · András · Borbála · Júlia"
+            "text": "4",
+            "number": 4
           }
         }
       ]
