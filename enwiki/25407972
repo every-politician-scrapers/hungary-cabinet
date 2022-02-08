@@ -29,14 +29,9 @@
               "text": "László Kövér (born 29 December 1959) is a Hungarian politician and the current speaker of the National Assembly of Hungary.",
               "links": [
                 {
-                  "text": "Hungarian",
-                  "type": "internal",
-                  "page": "Hungary"
-                },
-                {
                   "text": "speaker of the National Assembly of Hungary",
                   "type": "internal",
-                  "page": "speaker of the National Assembly of Hungary"
+                  "page": "List of speakers of the National Assembly (Hungary)"
                 }
               ],
               "formatting": {
@@ -67,9 +62,8 @@
               "text": "He is a founding member of Fidesz from 1988, and he served as Minister without portfolio for the Civilian Intelligence Services during the first Viktor Orbán administration.",
               "links": [
                 {
-                  "text": "Fidesz",
                   "type": "internal",
-                  "page": "Fidesz – Hungarian Civic Union"
+                  "page": "Fidesz"
                 },
                 {
                   "type": "internal",
@@ -92,7 +86,7 @@
           "list": [
             "Kövér László"
           ],
-          "template": "eastern name order"
+          "template": "hungarian name"
         },
         {
           "year": "1959",
@@ -117,12 +111,15 @@
               {
                 "text": "MP",
                 "type": "internal",
-                "page": "1990 Hungarian parliamentary election"
+                "page": "List of members of the National Assembly of Hungary (2018–2022)"
               }
             ]
           },
           "image": {
             "text": "László Kövér Senate of Poland 01 (cropped).JPG"
+          },
+          "caption": {
+            "text": "Kövér in 2011"
           },
           "office": {
             "text": "Speaker of the National Assembly",
@@ -130,7 +127,7 @@
               {
                 "text": "Speaker of the National Assembly",
                 "type": "internal",
-                "page": "List of Speakers of the National Assembly of Hungary"
+                "page": "List of speakers of the National Assembly (Hungary)"
               }
             ]
           },
@@ -239,7 +236,7 @@
               {
                 "text": "Member of the National Assembly",
                 "type": "internal",
-                "page": "Parliament of Hungary"
+                "page": "National Assembly (Hungary)"
               }
             ]
           },
@@ -259,7 +256,7 @@
               {
                 "text": "Hungary",
                 "type": "internal",
-                "page": "People's Republic of Hungary"
+                "page": "Hungarian People's Republic"
               }
             ]
           },
@@ -267,7 +264,8 @@
             "text": "Mária Bekk"
           },
           "children": {
-            "text": "Vajk · Botond · Csenge"
+            "text": "3",
+            "number": 3
           },
           "party": {
             "text": "Fidesz",
