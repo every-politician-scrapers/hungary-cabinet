@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Miklós Kásler (born 1 March 1950) is a Hungarian oncologist, professor, director of the National Institute of Oncology, and since 2018 Minister of Human Resources.",
+              "text": "Miklós Kásler (born 1 March 1950) is a Hungarian oncologist, professor, director of the National Institute of Oncology, and since 2018 Minister of Human Capacities.",
               "links": [
                 {
                   "text": "oncologist",
@@ -31,7 +31,7 @@
                   "page": "professor"
                 },
                 {
-                  "text": "Minister of Human Resources",
+                  "text": "Minister of Human Capacities",
                   "type": "internal",
                   "page": "Minister of Education (Hungary)"
                 }
@@ -76,10 +76,10 @@
             "text": "KaslerMiklosFotoThalerTamas (crop).jpg"
           },
           "order": {
-            "text": "Minister of Human Resources",
+            "text": "Minister of Human Capacities",
             "links": [
               {
-                "text": "Minister of Human Resources",
+                "text": "Minister of Human Capacities",
                 "type": "internal",
                 "page": "Government of Hungary"
               }
