@@ -39,11 +39,12 @@
         {
           "sentences": [
             {
-              "text": "Viktor Mihály Orbán (born 31 May 1963) is a Hungarian politician who has served as Prime Minister of Hungary since 2010, previously holding the office from 1998 to 2002.",
+              "text": "Viktor Mihály Orbán (born 31 May 1963) is a Hungarian politician who has served as prime minister of Hungary since 2010, previously holding the office from 1998 to 2002.",
               "links": [
                 {
+                  "text": "prime minister of Hungary",
                   "type": "internal",
-                  "page": "Prime Minister of Hungary"
+                  "page": "prime minister of Hungary"
                 }
               ],
               "formatting": {
@@ -154,7 +155,7 @@
         {
           "sentences": [
             {
-              "text": "Orbán's first term as Prime Minister, from 1998 to 2002 at the head of a conservative coalition government, was dominated by the economy and Hungary's accession to NATO.",
+              "text": "Orbán's first term as prime minister, from 1998 to 2002 at the head of a conservative coalition government, was dominated by the economy and Hungary's accession to NATO.",
               "links": [
                 {
                   "text": "1998",
@@ -170,10 +171,10 @@
               ]
             },
             {
-              "text": "He served as Leader of the Opposition from 2002 to 2010.",
+              "text": "He served as leader of the opposition from 2002 to 2010.",
               "links": [
                 {
-                  "text": "Leader of the Opposition",
+                  "text": "leader of the opposition",
                   "type": "internal",
                   "page": "Leader of the Opposition (Hungary)"
                 },
@@ -185,7 +186,7 @@
               ]
             },
             {
-              "text": "In 2010, Orbán again became Prime Minister after Fidesz's supermajority victory in coalition with the Christian Democrats.",
+              "text": "In 2010, Orbán again became prime minister after Fidesz's supermajority victory in coalition with the Christian Democrats.",
               "links": [
                 {
                   "text": "supermajority victory",
@@ -231,7 +232,7 @@
               }
             },
             {
-              "text": "He has won reelection twice, in 2014 and 2018, and in November 2020 became the country's longest-serving Prime Minister.",
+              "text": "He has won reelection twice, in 2014 and 2018, and in November 2020 became the country's longest-serving prime minister.",
               "links": [
                 {
                   "text": "2014",
@@ -244,9 +245,9 @@
                   "page": "2018 Hungarian parliamentary election"
                 },
                 {
-                  "text": "longest-serving Prime Minister",
+                  "text": "country's longest-serving prime minister",
                   "type": "internal",
-                  "page": "list of Prime Ministers of Hungary by tenure"
+                  "page": "List of prime ministers of Hungary by tenure"
                 }
               ]
             },
