@@ -59,11 +59,16 @@
         {
           "sentences": [
             {
-              "text": "He is a founding member of Fidesz from 1988, and he served as Minister without portfolio for the Civilian Intelligence Services during the first Viktor Orbán administration.",
+              "text": "A founding member of Fidesz since 1988, he served as Minister without portfolio for Civilian Intelligence Services during the first Viktor Orbán administration.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Fidesz"
+                },
+                {
+                  "text": "Minister without portfolio for Civilian Intelligence Services",
+                  "type": "internal",
+                  "page": "Minister of Civilian Intelligence Services (Hungary)"
                 },
                 {
                   "type": "internal",
@@ -72,7 +77,7 @@
               ]
             },
             {
-              "text": "In 2000 he was appointed leader of the party, but he resigned from his position in the next year."
+              "text": "He was appointed leader of the party in 2000, but resigned from his position the following year."
             }
           ]
         }
@@ -81,6 +86,10 @@
         {
           "description": "Hungarian politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "list": [
@@ -94,6 +103,11 @@
           "day": "29",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "spouse": "Mária Bekk",
+          "from": "1987",
+          "template": "marriage"
         },
         {
           "transcription": "ˈlaːsloː ˈkøveːr",
@@ -149,8 +163,7 @@
               {
                 "text": "Acting President of Hungary",
                 "type": "internal",
-                "page": "President of Hungary",
-                "anchor": "Succession"
+                "page": "President of Hungary"
               }
             ]
           },
@@ -261,7 +274,7 @@
             ]
           },
           "spouse": {
-            "text": "Mária Bekk"
+            "text": "Mária Bekk (m. 1987)"
           },
           "children": {
             "text": "3",
