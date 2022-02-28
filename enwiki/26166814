@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Péter Szijjártó (born 30 October 1978) is a Hungarian politician, who has been Minister of Foreign Affairs and Trade since 23 September 2014.",
+              "text": "Péter Szijjártó (born 30 October 1978) is a Hungarian politician who has been Minister of Foreign Affairs and Trade since 2014.",
               "links": [
                 {
                   "text": "Hungarian",
@@ -45,7 +45,7 @@
               "text": "He previously served as Deputy Minister of Foreign Affairs and Trade and Parliamentary State Secretary of the Ministry of Foreign Affairs and Trade."
             },
             {
-              "text": "In June 2012 he was appointed to State Secretary for Foreign Affairs and External Economic Relations of the Prime Minister's Office.",
+              "text": "In June 2012, he was appointed to State Secretary for Foreign Affairs and External Economic Relations of the Prime Minister's Office.",
               "links": [
                 {
                   "text": "Prime Minister's Office",
@@ -166,7 +166,7 @@
             ]
           },
           "deputy": {
-            "text": "László Szabó (2014–17)",
+            "text": "László Szabó\n(2014–2017)",
             "links": [
               {
                 "text": "László Szabó",
@@ -259,6 +259,11 @@
                 "text": "Corvinus University",
                 "type": "internal",
                 "page": "Corvinus University of Budapest"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
               }
             ]
           },
