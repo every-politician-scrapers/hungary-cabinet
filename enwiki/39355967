@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Dr. István Nagy (born October 6, 1967) is a Hungarian agrarian engineer and politician, who is the current Minister of Agriculture since 2018.",
+              "text": "István Nagy (born 6 October 1967) is a Hungarian agricultural engineer and politician who has served as Minister of Agriculture since 2018.",
               "links": [
                 {
                   "text": "Minister of Agriculture",
@@ -32,7 +32,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dr. István Nagy"
+                  "István Nagy"
                 ]
               }
             }
@@ -41,17 +41,25 @@
       ],
       "templates": [
         {
+          "description": "Hungarian agricultural engineer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Nagy István"
+          ],
+          "template": "hungarian name"
+        },
+        {
           "year": "1967",
           "month": "10",
           "day": "6",
           "df": "yes",
           "template": "birth date and age"
-        },
-        {
-          "list": [
-            "dr. Nagy István"
-          ],
-          "template": "eastern name order"
         }
       ],
       "infoboxes": [
@@ -59,8 +67,21 @@
           "name": {
             "text": "István Nagy"
           },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "List of members of the National Assembly of Hungary (2018–2022)"
+              }
+            ]
+          },
           "image": {
             "text": "Nagy István (agrármérnök).jpg"
+          },
+          "caption": {
+            "text": "Nagy in 2019"
           },
           "order": {
             "text": "Minister of Agriculture",
@@ -99,7 +120,7 @@
               {
                 "text": "Member of the National Assembly",
                 "type": "internal",
-                "page": "National Assembly of Hungary"
+                "page": "National Assembly (Hungary)"
               }
             ]
           },
@@ -120,18 +141,44 @@
               {
                 "text": "Hungary",
                 "type": "internal",
-                "page": "People's Republic of Hungary"
+                "page": "Hungarian People's Republic"
               }
             ]
           },
           "spouse": {
-            "text": "Dr. Istvánné Nagy"
+            "text": "Ágnes Szabó"
           },
           "children": {
-            "text": "Veronika · István"
+            "text": "2",
+            "number": 2
+          },
+          "parents": {
+            "text": "István Nagy\n\nIrma Fodor"
+          },
+          "alma_mater": {
+            "text": "University of Pannonia\n\nBudapest University of Technology and Economics\n\nUniversity of Sopron (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Pannonia"
+              },
+              {
+                "type": "internal",
+                "page": "Budapest University of Technology and Economics"
+              },
+              {
+                "type": "internal",
+                "page": "University of Sopron"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
           },
           "profession": {
-            "text": "agrarian engineer, politician"
+            "text": "Agricultural engineer · politician"
           },
           "party": {
             "text": "Fidesz",
@@ -141,6 +188,9 @@
                 "page": "Fidesz"
               }
             ]
+          },
+          "website": {
+            "text": "István Nagy website"
           }
         }
       ]
