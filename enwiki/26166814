@@ -100,6 +100,28 @@
               "text": "He received mandates in 2006, 2010, 2014 and 2018 as well; currently he is serving his fourth term as Member of Parliament."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Hungarian government pursues a pro-Russian foreign policy, so in December 2021, Péter Szijjártó was awarded the Order of Friendship, which he received from Russian Foreign Minister Sergey Lavrov in Moscow.",
+              "links": [
+                {
+                  "text": "Hungarian government",
+                  "type": "internal",
+                  "page": "Fourth Orbán Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Order of Friendship"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sergey Lavrov"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
