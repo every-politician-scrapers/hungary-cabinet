@@ -1,230 +1,25 @@
 {
-  "title": "Sándor Pintér",
-  "pageID": 24238748,
-  "categories": [
-    "1948 births",
-    "Living people",
-    "Politicians from Budapest",
-    "Hungarian police officers",
-    "Hungarian Interior Ministers",
-    "Members of the Fourth Orbán Government",
-    "Members of the Hungarian Socialist Workers' Party"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sándor Pintér (born 3 July 1948) is a Hungarian politician and former top police officer.",
-              "links": [
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "police officer",
-                  "type": "internal",
-                  "page": "police officer"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sándor Pintér"
-                ]
-              }
-            },
-            {
-              "text": "He served as Minister of the Interior from 1998 to 2002 and since 2010, in Viktor Orbán's cabinets.",
-              "links": [
-                {
-                  "text": "Minister of the Interior",
-                  "type": "internal",
-                  "page": "Minister of the Interior (Hungary)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Viktor Orbán"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Hungarian politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Pintér Sándor"
-          ],
-          "template": "hungarian name"
-        },
-        {
-          "list": [
-            "the soccer player",
-            "Sándor Pintér (footballer)"
-          ],
-          "template": "for"
-        },
-        {
-          "year": "1948",
-          "month": "07",
-          "day": "03",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sándor Pintér"
-          },
-          "image": {
-            "text": "Pinter Sandor Portrait.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2011"
-          },
-          "alt": {
-            "text": "Photograph"
-          },
-          "order1": {
-            "text": "Deputy Prime Minister of Hungary"
-          },
-          "term_start1": {
-            "text": "18 May 2018"
-          },
-          "alongside1": {
-            "text": "Zsolt Semjén and Mihály Varga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zsolt Semjén"
-              },
-              {
-                "type": "internal",
-                "page": "Mihály Varga"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Viktor Orbán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viktor Orbán"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Minister of Interior",
-            "links": [
-              {
-                "text": "Minister of Interior",
-                "type": "internal",
-                "page": "Ministry of Interior (Hungary)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 May 2010"
-          },
-          "primeminister2": {
-            "text": "Viktor Orbán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viktor Orbán"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Zoltán Varga\n(Minister of Local Government)",
-            "links": [
-              {
-                "text": "Zoltán Varga",
-                "type": "internal",
-                "page": "Zoltán Varga (politician)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "8 July 1998"
-          },
-          "term_end3": {
-            "text": "27 May 2002"
-          },
-          "primeminister3": {
-            "text": "Viktor Orbán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viktor Orbán"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Gábor Kuncze",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gábor Kuncze"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Mónika Lamperth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mónika Lamperth"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 3, 1948"
-          },
-          "birth_place": {
-            "text": "Budapest, Hungary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Budapest"
-              },
-              {
-                "text": "Hungary",
-                "type": "internal",
-                "page": "Second Hungarian Republic"
-              }
-            ]
-          },
-          "profession": {
-            "text": "politician, police officer"
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ildikó Pintérné Eötvös"
-          },
-          "children": {
-            "text": "Hajnalka · Csillag · Ildikó"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sándor Pintér",
+  "image": "Pinter Sandor Portrait.jpg",
+  "caption": "Official portrait, 2011",
+  "alt": "Photograph",
+  "order1": "Deputy Prime Minister of Hungary",
+  "term_start1": "18 May 2018",
+  "alongside1": "Zsolt Semjén and Mihály Varga",
+  "primeminister1": "Viktor Orbán",
+  "order2": "Minister of Interior",
+  "term_start2": "29 May 2010",
+  "primeminister2": "Viktor Orbán",
+  "predecessor2": "Zoltán Varga\n(Minister of Local Government)",
+  "term_start3": "8 July 1998",
+  "term_end3": "27 May 2002",
+  "primeminister3": "Viktor Orbán",
+  "predecessor3": "Gábor Kuncze",
+  "successor3": "Mónika Lamperth",
+  "birth_date": "July 3, 1948",
+  "birth_place": "Budapest, Hungary",
+  "profession": "politician, police officer",
+  "party": "Independent",
+  "spouse": "Ildikó Pintérné Eötvös",
+  "children": "Hajnalka · Csillag · Ildikó"
 }

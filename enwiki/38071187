@@ -1,145 +1,15 @@
 {
-  "title": "Péter Polt",
-  "pageID": 38071187,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Hungarian jurists",
-    "Eötvös Loránd University faculty",
-    "Fidesz politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Péter Polt (born 6 September 1955) is a Hungarian jurist, Chief Prosecutor of Hungary from 2000 to 2006 and since 2010.",
-              "links": [
-                {
-                  "text": "Hungarian",
-                  "type": "internal",
-                  "page": "Hungary"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Prosecutor of Hungary"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Péter Polt"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "df": "yes",
-          "year": "1955",
-          "month": "9",
-          "day": "6",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Polt Péter"
-          ],
-          "template": "eastern name order"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Péter Polt"
-          },
-          "order": {
-            "text": "Chief Prosecutor",
-            "links": [
-              {
-                "text": "Chief Prosecutor",
-                "type": "internal",
-                "page": "Chief Prosecutor of Hungary"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 December 2010"
-          },
-          "predecessor": {
-            "text": "Tamás Kovács",
-            "links": [
-              {
-                "text": "Tamás Kovács",
-                "type": "internal",
-                "page": "Tamás Kovács (jurist)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 May 2000"
-          },
-          "term_end2": {
-            "text": "16 May 2006"
-          },
-          "predecessor2": {
-            "text": "Kálmán Györgyi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kálmán Györgyi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Tamás Kovács",
-            "links": [
-              {
-                "text": "Tamás Kovács",
-                "type": "internal",
-                "page": "Tamás Kovács (jurist)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 6, 1955"
-          },
-          "birth_place": {
-            "text": "Budapest, Hungary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Budapest"
-              },
-              {
-                "text": "Hungary",
-                "type": "internal",
-                "page": "People's Republic of Hungary"
-              }
-            ]
-          },
-          "profession": {
-            "text": "jurist"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "party": {
-            "text": "Fidesz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fidesz"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Péter Polt",
+  "order": "Chief Prosecutor",
+  "term_start": "13 December 2010",
+  "predecessor": "Tamás Kovács",
+  "term_start2": "16 May 2000",
+  "term_end2": "16 May 2006",
+  "predecessor2": "Kálmán Györgyi",
+  "successor2": "Tamás Kovács",
+  "birth_date": "September 6, 1955",
+  "birth_place": "Budapest, Hungary",
+  "profession": "jurist",
+  "children": "3",
+  "party": "Fidesz"
 }

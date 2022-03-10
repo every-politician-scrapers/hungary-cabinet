@@ -1,271 +1,30 @@
 {
-  "title": "János Lázár",
-  "pageID": 23166390,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Hungarian lawyers",
-    "Mayors of places in Hungary",
-    "Fidesz politicians",
-    "Members of the National Assembly of Hungary (2002–2006)",
-    "Members of the National Assembly of Hungary (2006–2010)",
-    "Members of the National Assembly of Hungary (2010–2014)",
-    "Members of the National Assembly of Hungary (2014–2018)",
-    "Members of the National Assembly of Hungary (2018–2022)",
-    "People from Hódmezővásárhely"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "János Lázár (born 19 February 1975) is a Hungarian politician and Member of Parliament.",
-              "formatting": {
-                "bold": [
-                  "János Lázár"
-                ]
-              }
-            },
-            {
-              "text": "He was former leader of the Fidesz parliamentary group (2010–2012) and State Secretary, then Minister of Prime Minister's Office (2012–2018) in the cabinets of Viktor Orbán.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fidesz"
-                },
-                {
-                  "text": "parliamentary group",
-                  "type": "internal",
-                  "page": "parliamentary group"
-                },
-                {
-                  "type": "internal",
-                  "page": "Viktor Orbán"
-                }
-              ]
-            },
-            {
-              "text": "In this capacity, he was regarded as de facto the second most powerful member of the cabinet, but lost political influence by 2018.",
-              "formatting": {
-                "italic": [
-                  "de facto"
-                ]
-              }
-            },
-            {
-              "text": "He also served as Mayor of Hódmezővásárhely from 2002 to 2012.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Hódmezővásárhely"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Hungarian politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1975",
-          "month": "2",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Lázár János"
-          ],
-          "template": "eastern name order"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "János Lázár"
-          },
-          "image": {
-            "text": "Lázár János 2 cropped.jpg"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "National Assembly of Hungary"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Minister of the Prime Minister’s Office",
-            "links": [
-              {
-                "text": "Minister of the Prime Minister’s Office",
-                "type": "internal",
-                "page": "Government of Hungary"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Viktor Orbán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viktor Orbán"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 June 2014"
-          },
-          "term_end1": {
-            "text": "17 May 2018"
-          },
-          "predecessor1": {
-            "text": "himself\nas Secretary of State"
-          },
-          "successor1": {
-            "text": "Gergely Gulyás",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gergely Gulyás"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Secretary of State of the Prime Minister’s Office",
-            "links": [
-              {
-                "text": "Secretary of State of the Prime Minister’s Office",
-                "type": "internal",
-                "page": "Government of Hungary"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2 June 2012"
-          },
-          "term_end2": {
-            "text": "6 June 2014"
-          },
-          "predecessor2": {
-            "text": "Mihály Varga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihály Varga"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "himself\nas Minister"
-          },
-          "order3": {
-            "text": "Mayor of Hódmezővásárhely",
-            "links": [
-              {
-                "text": "Mayor of Hódmezővásárhely",
-                "type": "internal",
-                "page": "Hódmezővásárhely"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 October 2002"
-          },
-          "term_end3": {
-            "text": "6 September 2012"
-          },
-          "predecessor3": {
-            "text": "András Rapcsák",
-            "links": [
-              {
-                "type": "internal",
-                "page": "András Rapcsák"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "István Almási",
-            "links": [
-              {
-                "type": "internal",
-                "page": "István Almási"
-              }
-            ]
-          },
-          "order4": {
-            "text": "Member of the National Assembly",
-            "links": [
-              {
-                "text": "Member of the National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Hungary)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "15 May 2002"
-          },
-          "birth_date": {
-            "text": "February 19, 1975"
-          },
-          "birth_place": {
-            "text": "Hódmezővásárhely, Hungary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hódmezővásárhely"
-              },
-              {
-                "type": "internal",
-                "page": "Hungary"
-              }
-            ]
-          },
-          "party": {
-            "text": "Fidesz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fidesz"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "József Attila University of Sciences",
-            "links": [
-              {
-                "text": "József Attila University of Sciences",
-                "type": "internal",
-                "page": "József Attila University"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Dr Zita Lázárné Megyeri"
-          },
-          "children": {
-            "text": "János Boldizsár\nZsigmond Bertalan"
-          },
-          "signature": {
-            "text": "Lázár János aláírása.jpg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "János Lázár",
+  "image": "Lázár János 2 cropped.jpg",
+  "honorific-suffix": "MP",
+  "order1": "Minister of the Prime Minister’s Office",
+  "primeminister1": "Viktor Orbán",
+  "term_start1": "6 June 2014",
+  "term_end1": "17 May 2018",
+  "predecessor1": "himself\nas Secretary of State",
+  "successor1": "Gergely Gulyás",
+  "order2": "Secretary of State of the Prime Minister’s Office",
+  "term_start2": "2 June 2012",
+  "term_end2": "6 June 2014",
+  "predecessor2": "Mihály Varga",
+  "successor2": "himself\nas Minister",
+  "order3": "Mayor of Hódmezővásárhely",
+  "term_start3": "20 October 2002",
+  "term_end3": "6 September 2012",
+  "predecessor3": "András Rapcsák",
+  "successor3": "István Almási",
+  "order4": "Member of the National Assembly",
+  "term_start4": "15 May 2002",
+  "birth_date": "February 19, 1975",
+  "birth_place": "Hódmezővásárhely, Hungary",
+  "party": "Fidesz",
+  "alma_mater": "József Attila University of Sciences",
+  "spouse": "Dr Zita Lázárné Megyeri",
+  "children": "János Boldizsár\nZsigmond Bertalan",
+  "signature": "Lázár János aláírása.jpg"
 }
