@@ -70,5 +70,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q367347,Cabinet of Gordon Bajnai,2009-04-16,11,,,2010-05-29,11,,,Q819146,second cabinet of Ferenc Gyurcsány,Q907500,Second Cabinet of Viktor Orbán,,,Q907500,Second Cabinet of Viktor Orbán
 ,Q907500,Second Cabinet of Viktor Orbán,2010-05-29,11,,,2014-06-06,11,,,Q367347,Cabinet of Gordon Bajnai,Q17142540,Third cabinet of Viktor Orbán,Q367347,Cabinet of Gordon Bajnai,Q17142540,Third cabinet of Viktor Orbán
 ,Q17142540,Third cabinet of Viktor Orbán,2014-06-06,11,,,2018-05-18,11,,,Q907500,Second Cabinet of Viktor Orbán,Q52225870,Fourth cabinet of Viktor Orbán,Q907500,Second Cabinet of Viktor Orbán,Q52225870,Fourth cabinet of Viktor Orbán
-,Q52225870,Fourth cabinet of Viktor Orbán,2018-05-18,11,,,,,,,Q17142540,Third cabinet of Viktor Orbán,,,Q17142540,Third cabinet of Viktor Orbán,,
-,Q111475445,Q111475445,2022-05-01,10,,,,,,,Q52225870,Fourth cabinet of Viktor Orbán,,,Q52225870,Fourth cabinet of Viktor Orbán,,
+,Q52225870,Fourth cabinet of Viktor Orbán,2018-05-18,11,,,,,,,Q17142540,Third cabinet of Viktor Orbán,Q111475445,Fifth Orbán Government,Q17142540,Third cabinet of Viktor Orbán,,
+,Q111475445,Fifth Orbán Government,2022-05-01,10,,,,,,,Q52225870,Fourth cabinet of Viktor Orbán,,,Q52225870,Fourth cabinet of Viktor Orbán,,
