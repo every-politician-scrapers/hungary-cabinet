@@ -7,19 +7,19 @@ require 'pry'
 # Hungarian dates
 class Hungarian < WikipediaDate
   REMAP = {
-    'hivatalban'  => 'Incumbent',
-    'január'   => 'January',
-    'február'  => 'February',
-    'március'     => 'March',
-    'április'     => 'April',
-    'május'       => 'May',
-    'június'      => 'June',
-    'július'      => 'July',
-    'augusztus'   => 'August',
+    'hivatalban' => 'Incumbent',
+    'január'     => 'January',
+    'február'    => 'February',
+    'március'    => 'March',
+    'április'    => 'April',
+    'május'      => 'May',
+    'június'     => 'June',
+    'július'     => 'July',
+    'augusztus'  => 'August',
     'szeptember' => 'September',
-    'október'   => 'October',
-    'november'  => 'November',
-    'december'  => 'December',
+    'október'    => 'October',
+    'november'   => 'November',
+    'december'   => 'December',
   }.freeze
 
   def date_str
@@ -43,10 +43,6 @@ class OfficeholderList < OfficeholderListBase
   class Officeholder < OfficeholderBase
     def columns
       %w[name start end].freeze
-    end
-
-    def ignore_before
-      1990
     end
 
     def date_class
