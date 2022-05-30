@@ -1,7 +1,6 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 member of the National Assembly of Hungary,Zoltán Gál,Q1031025,1990-05-02,2002-05-14,male,1940-12-10,,Gál Zoltán 2013.JPG,Zoltán Gál
 member of the National Assembly of Hungary,Péter Hack,Q1032352,1990-05-02,2002-05-14,male,1959-08-15,,Hack Péter cropped.jpg,
-member of the National Assembly of Hungary,Iván Pető,Q1234306,1990-05-02,2002-05-14,male,1946-08-29,,PetőIván.jpg,
 member of the National Assembly of Hungary,Zoltán Rockenbauer,Q1249701,1990-05-02,2006-05-15,male,1960-01-04,,Rockenbauer Zoltán.JPG,Zoltán Rockenbauer
 member of the National Assembly of Hungary,Gyula Horn,Q155684,1990-05-02,2010-05-13,male,1932-07-05,2013-06-19,Gyula Horn (2007).jpg,Gyula Horn
 member of the National Assembly of Hungary,Sándor Szili,Q16522990,1990-05-02,2002-05-14,male,1939-04-06,2020-10-10,,
@@ -43,6 +42,7 @@ member of the National Assembly of Hungary,Imre Dögei,Q112105423,1994-06-28,200
 member of the National Assembly of Hungary,Bálint Magyar,Q1161847,1994-06-28,2010-05-13,male,1952-11-15,,Magyar Bálint.jpg,Bálint Magyar
 member of the National Assembly of Hungary,Gyula Molnár,Q1178612,1994-06-28,2010-05-13,male,1961-08-17,,Molnár Gyula (MSZP.hu).jpg,Gyula Molnár
 member of the National Assembly of Hungary,András Bársony,Q12078237,1994-06-28,2002-05-14,male,1946-07-23,,,
+member of the National Assembly of Hungary,Iván Pető,Q1234306,1994-06-28,2002-05-14,male,1946-08-29,,PetőIván.jpg,
 member of the National Assembly of Hungary,László Puch,Q1241438,1994-06-28,2014-05-05,male,1953-11-07,,,László Puch
 member of the National Assembly of Hungary,Béla Pál,Q1241960,1994-06-28,2002-05-14,male,1953-10-05,,,Béla Pál
 member of the National Assembly of Hungary,Csaba Sümeghy,Q1315550,1994-06-28,2006-05-15,male,1940-06-10,,,
@@ -234,7 +234,7 @@ member of the National Assembly of Hungary,Mátyás Szűrös,Q461944,1998-06-18,
 member of the National Assembly of Hungary,Zoltán Szabó,Q47506840,1998-06-18,2002-05-14,male,1955-11-04,,Szabó Zoltán 2012-09.JPG,
 member of the National Assembly of Hungary,Ernő Rozgonyi,Q50356269,1998-06-18,2002-05-14,male,1933-08-16,2018-03-04,,Ernő Rozgonyi
 member of the National Assembly of Hungary,Annamária Szalai,Q508444,1998-06-18,2004-03-30,female,1961-09-16,2013-04-12,Annamária Szalai NMHH.jpg,Annamária Szalai
-member of the National Assembly of Hungary,György Atyánszky,Q51880398,1998-06-18,2001-09-19,male,1947,,,
+member of the National Assembly of Hungary,György Atyánszky,Q51880398,1998-06-18,2001-09-19,male,1947-04-20,,,
 member of the National Assembly of Hungary,László Bartha,Q51880415,1998-06-18,2002-05-14,male,1961-09-24,,,
 member of the National Assembly of Hungary,Ildikó Bernáth,Q51880416,1998-06-18,2002-05-14,female,1949-09-12,,BernathI.jpg,
 member of the National Assembly of Hungary,Tivadar Birkás,Q51880418,1998-06-18,2002-05-14,male,1973-04-21,,,
@@ -421,7 +421,7 @@ member of the National Assembly of Hungary,László Zakó,Q51881194,2001-06-27,2
 member of the National Assembly of Hungary,Krisztina Hortobágyi,Q51880600,2001-08-23,2002-05-14,female,1970-04-20,,,
 member of the National Assembly of Hungary,András Várhelyi,Q1642640,2001-09-04,2002-05-14,male,1953-10-21,,,
 member of the National Assembly of Hungary,László Pallag,Q1228456,2001-09-20,2002-05-14,male,1950-09-16,2011-09-24,,
-member of the National Assembly of Hungary,György Atyánszky,Q51880398,2001-09-20,2002-05-14,male,1947,,,
+member of the National Assembly of Hungary,György Atyánszky,Q51880398,2001-09-20,2002-05-14,male,1947-04-20,,,
 member of the National Assembly of Hungary,Sándor Cseh,Q51880500,2001-09-20,2002-05-14,male,1934-11-28,,,
 member of the National Assembly of Hungary,László Csúcs,Q51880501,2001-09-20,2002-05-14,male,1942-01-25,,,
 member of the National Assembly of Hungary,Kálmán Czoma,Q51880516,2001-09-20,2002-05-14,male,1936-11-26,,,
@@ -697,7 +697,6 @@ member of the National Assembly of Hungary,István Fülöp,Q6089208,2005-05-15,2
 member of the National Assembly of Hungary,Mátyás Firtl,Q1001652,2005-05-23,2006-05-15,male,1949-10-30,,Firtl Mátyás 2011-11.jpg,Mátyás Firtl
 member of the National Assembly of Hungary,József Gyimesi,Q51880568,2005-07-01,2006-01-11,male,1954-10-03,,,
 member of the National Assembly of Hungary,Iván Demus,Q51880522,2005-12-12,2006-05-15,male,1949,,,
-member of the National Assembly of Hungary,György Alexa,Q51880400,2006,2010,male,1958-06-15,,,
 member of the National Assembly of Hungary,József Gyimesi,Q51880568,2006-01-12,2006-05-15,male,1954-10-03,,,
 member of the National Assembly of Hungary,Andor Nagy,Q14922928,2006-04-23,2010-05-13,male,1963-02-25,,Nagy Andor.jpg,Andor Nagy
 member of the National Assembly of Hungary,Mátyás Firtl,Q1001652,2006-05-16,2014-05-05,male,1949-10-30,,Firtl Mátyás 2011-11.jpg,Mátyás Firtl
@@ -808,6 +807,7 @@ member of the National Assembly of Hungary,András Kupper,Q4759783,2006-05-16,20
 member of the National Assembly of Hungary,Attila Kiss,Q4818412,2006-05-16,2014-05-05,male,1968-04-22,,,Attila Kiss
 member of the National Assembly of Hungary,Imre Iváncsik,Q50191177,2006-05-16,2010-05-13,male,1956-06-29,,,Imre Iváncsik
 member of the National Assembly of Hungary,István Levente Garai,Q50232496,2006-05-16,2010-05-13,male,1955-06-15,2018-12-25,,István Levente Garai
+member of the National Assembly of Hungary,György Alexa,Q51880400,2006-05-16,2010-05-13,male,1958-06-15,,,
 member of the National Assembly of Hungary,János Bóth,Q51880439,2006-05-16,2010-05-13,male,1949-12-25,,,
 member of the National Assembly of Hungary,Béla Bagi,Q51880444,2006-05-16,2010-05-13,male,1948-01-28,,,
 member of the National Assembly of Hungary,Ágnes Barabásné Czövek,Q51880446,2006-05-16,2010-05-13,female,1950-02-03,,,
@@ -1712,7 +1712,7 @@ member of the National Assembly of Hungary,Dávid Bedő,Q111804219,2022-05-02,,m
 member of the National Assembly of Hungary,János Bencze,Q111804263,2022-05-02,,male,1973-03-03,,,
 member of the National Assembly of Hungary,Sándor Berki,Q111804452,2022-05-02,,male,1977,,,
 member of the National Assembly of Hungary,András Demeter,Q111812869,2022-05-02,,male,1982-10-25,,,
-member of the National Assembly of Hungary,Ferenc Gelencsér,Q111817271,2022-05-02,,male,1990-07-21,,,
+member of the National Assembly of Hungary,Ferenc Gelencsér,Q111817271,2022-05-02,,male,1990-07-21,,,Ferenc Gelencsér
 member of the National Assembly of Hungary,Andrea Hegedüs,Q111818850,2022-05-02,,female,1968-07-19,,,
 member of the National Assembly of Hungary,János Kiss,Q111822460,2022-05-02,,male,1967-04-04,,,
 member of the National Assembly of Hungary,Zoltán Komáromi,Q111828939,2022-05-02,,male,1955,,,
