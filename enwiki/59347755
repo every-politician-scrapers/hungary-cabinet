@@ -1,10 +1,16 @@
 {
+  "color": "#eee",
   "office": "Hungarian Ambassador to the Holy See",
-  "termstart": "2015",
-  "predecessor": "Gabor Győriványi",
-  "birth_date": "January 12, 1967",
-  "birth_place": "Munich, Bavaria, Germany",
+  "termstart": "5 December 2015",
+  "predecessor": "Gabor Győriványi"
+}
+{
+  "name": "Archduke Eduard of Austria",
   "spouse": "Baroness Maria Theresia von Gudenus (m. 1995)",
-  "children": "6",
-  "parents": "Michael Habsburg-Lothringen Princess Christiana of Löwenstein-Wertheim-Rosenberg"
+  "issue": "Archduchess Margit, Princess of Monteleone Archduchess Ilona Archduchess Anna-Theresia Archduke Joseph Árpád Archduke István Dominik Archduchess Maria Kynga Archduke Géza Archduke Michael",
+  "house": "Habsburg-Lorraine",
+  "father": "Archduke Joseph Francis of Austria",
+  "mother": "Princess Anna of Saxony",
+  "birth_date": "January 12, 1967",
+  "birth_place": "Munich, Bavaria, Germany"
 }
