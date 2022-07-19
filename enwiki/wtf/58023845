@@ -1,0 +1,730 @@
+{
+  "title": "Katalin Novák",
+  "pageID": 58023845,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "People from Szeged",
+    "Presidents of Hungary",
+    "Fidesz politicians",
+    "Members of the National Assembly of Hungary (2018–2022)",
+    "Women members of the National Assembly of Hungary",
+    "Women government ministers of Hungary",
+    "Female heads of state",
+    "Women presidents",
+    "Corvinus University of Budapest alumni",
+    "University of Szeged alumni",
+    "Chevaliers of the Légion d'honneur",
+    "Commanders of the Order of Merit of the Republic of Poland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Katalin Éva Novák (born 6 September 1977) is a Hungarian politician serving as the current president of Hungary, having been elected in the 2022 presidential election.",
+              "links": [
+                {
+                  "text": "president of Hungary",
+                  "type": "internal",
+                  "page": "president of Hungary"
+                },
+                {
+                  "text": "2022 presidential election",
+                  "type": "internal",
+                  "page": "2022 Hungarian presidential election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Katalin Éva Novák"
+                ]
+              }
+            },
+            {
+              "text": "Novák is the first woman to hold the presidency, as well as the youngest president in the history of Hungary, elected at the age of 44."
+            },
+            {
+              "text": "A member of Fidesz, Novák has additionally served as member of the National Assembly from 2018 to 2022, and as Minister for Family Affairs in the fourth Orbán Government from 2020 until 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fidesz"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Hungary)"
+                },
+                {
+                  "text": "fourth Orbán Government",
+                  "type": "internal",
+                  "page": "fourth Orbán Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Hungarian politician (born 1977)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Novák Katalin Éva"
+          ],
+          "template": "hungarian name"
+        },
+        {
+          "date": "March 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1977",
+          "month": "9",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Katalin Novák"
+          },
+          "image": {
+            "text": "Katalin Novák in 2017 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Novák in 2017"
+          },
+          "office": {
+            "text": "President of Hungary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Hungary"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 May 2022"
+          },
+          "primeminister": {
+            "text": "Viktor Orbán",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viktor Orbán"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "János Áder",
+            "links": [
+              {
+                "type": "internal",
+                "page": "János Áder"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Family Affairs"
+          },
+          "president1": {
+            "text": "János Áder"
+          },
+          "primeminister1": {
+            "text": "Viktor Orbán"
+          },
+          "term_start1": {
+            "text": "1 October 2020"
+          },
+          "term_end1": {
+            "text": "31 December 2021"
+          },
+          "predecessor1": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Member of the National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Hungary)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 May 2018"
+          },
+          "term_end2": {
+            "text": "1 May 2022"
+          },
+          "birth_name": {
+            "text": "Katalin Éva Novák"
+          },
+          "birth_date": {
+            "text": "September 6, 1977"
+          },
+          "birth_place": {
+            "text": "Szeged, Hungary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Szeged"
+              },
+              {
+                "text": "Hungary",
+                "type": "internal",
+                "page": "Hungarian People's Republic"
+              }
+            ]
+          },
+          "party": {
+            "text": "Fidesz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fidesz"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "István Attila Veres"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "education": {
+            "text": "Corvinus University of Budapest (MSc)\n\nUniversity of Szeged (J.D.)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Corvinus University of Budapest"
+              },
+              {
+                "text": "MSc",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
+                "type": "internal",
+                "page": "University of Szeged"
+              },
+              {
+                "text": "J.D.",
+                "type": "internal",
+                "page": "Juris Doctor"
+              }
+            ]
+          },
+          "webpage": {
+            "text": "https://www.sandorpalota.hu/en"
+          },
+          "residence": {
+            "text": "Sándor Palace, Budapest",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sándor Palace, Budapest"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://2015-2019.kormany.hu/download/7/5a/b0000/EMMI%20vezet%C5%91k%20el%C3%A9rhet%C5%91s%C3%A9ge_0501.pdf",
+          "title": "EMMI vezetők elérhetősége",
+          "website": "Magyarország Kormánya",
+          "page": "8",
+          "language": "hu",
+          "url-status": "live",
+          "access-date": "20 March 2021",
+          "archive-date": "26 May 2021",
+          "archive-url": "https://web.archive.org/web/20210526145334/https://2015-2019.kormany.hu/download/7/5a/b0000/EMMI%20vezet%C5%91k%20el%C3%A9rhet%C5%91s%C3%A9ge_0501.pdf",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After completing her secondary education at the Ságvári Endre Secondary School at Szeged in 1996, Novák studied economics at the Corvinus University of Budapest and law at the University of Szeged.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Corvinus University of Budapest"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Szeged"
+                }
+              ]
+            },
+            {
+              "text": "While a student, she additionally studied abroad at the Paris Nanterre University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paris Nanterre University"
+                }
+              ]
+            },
+            {
+              "text": "In addition to Hungarian, Novák speaks French, English, and German.",
+              "links": [
+                {
+                  "text": "Hungarian",
+                  "type": "internal",
+                  "page": "Hungarian language"
+                },
+                {
+                  "text": "French",
+                  "type": "internal",
+                  "page": "French language"
+                },
+                {
+                  "text": "German",
+                  "type": "internal",
+                  "page": "German language"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Novák started work at the Foreign Ministry in 2001, specializing in European Union and European matters."
+            },
+            {
+              "text": "In 2010 she became a ministerial advisor and in 2012 was appointed Head of Cabinet of the Ministry of Human Resources."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014 she became State Secretary for Family and Youth Affairs at the Ministry of Human Capacities, eventually becoming Minister of Family Affairs in October 2020, a position held until December 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She served as Vice President of Fidesz between 2017 and 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 21 December 2021, Prime Minister Viktor Orbán announced that Novák would be his nominee in the 2022 presidential election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viktor Orbán"
+                },
+                {
+                  "text": "2022 presidential election",
+                  "type": "internal",
+                  "page": "2022 Hungarian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "On 10 March 2022, she won gaining 137 out of 188 votes in the National Assembly."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.atv.hu/belfold/20211005/novak-katalin-bejelentette-nem-indul-a-fidesz-alelnoki-posztjaert",
+          "title": "Novák Katalin bejelentette: Nem indul a Fidesz alelnöki posztjáért",
+          "lang": "hu",
+          "last": "Csuhaj",
+          "first": "Ildikó",
+          "website": "ATV",
+          "date": "5 October 2021",
+          "access-date": "10 March 2022",
+          "archive-date": "14 May 2022",
+          "archive-url": "https://web.archive.org/web/20220514213843/https://www.atv.hu/belfold/20211005/novak-katalin-bejelentette-nem-indul-a-fidesz-alelnoki-posztjaert",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-12-21",
+          "title": "Novák Katalin lesz a Fidesz államfőjelöltje",
+          "url": "https://telex.hu/belfold/2021/12/21/novak-katalin-lesz-a-fidesz-koztarsasagielnok-jeloltje",
+          "access-date": "2021-12-21",
+          "website": "Telex",
+          "language": "hu",
+          "last": "Tóth-Szenesi",
+          "first": "Attila",
+          "archive-date": "22 December 2021",
+          "archive-url": "https://web.archive.org/web/20211222140852/https://telex.hu/belfold/2021/12/21/novak-katalin-lesz-a-fidesz-koztarsasagielnok-jeloltje",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "'Nejdůležitější jsou pro mě rodiny a děti.' Maďarsko má novou prezidentku Katalin Novákovou",
+          "url": "https://www.irozhlas.cz/zpravy-svet/madarsko-prezidentka-volby-prezidentske-volby-orban-fidesz_2203101420_bko",
+          "access-date": "2022-03-10",
+          "website": "iROZHLAS",
+          "language": "cs",
+          "archive-date": "21 April 2022",
+          "archive-url": "https://web.archive.org/web/20220421220444/https://www.irozhlas.cz/zpravy-svet/madarsko-prezidentka-volby-prezidentske-volby-orban-fidesz_2203101420_bko",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "publisher": "Parliament",
+          "url": "http://www.parlament.hu/documents/static/kepv/eletrajz/hu/v064.pdf",
+          "title": "Biography",
+          "access-date": "29 July 2018",
+          "archive-date": "30 September 2021",
+          "archive-url": "https://web.archive.org/web/20210930094617/https://www.parlament.hu/documents/static/kepv/eletrajz/hu/v064.pdf",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Katalin Novák is married and has three children."
+            },
+            {
+              "text": "Her husband is economist István Veres, director of the Financial Market and Foreign Exchange Market Directorate at the Hungarian National Bank (MNB).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hungarian National Bank"
+                }
+              ]
+            },
+            {
+              "text": "She is a reformed Christian.",
+              "links": [
+                {
+                  "text": "reformed Christian",
+                  "type": "internal",
+                  "page": "Hungarian Reformed Church"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The President's husband – Hungary gets its first ever first gentleman",
+          "publisher": "Telex.hu",
+          "date": "12 May 2022",
+          "access-date": "12 May 2022",
+          "url": "https://telex.hu/english/2022/05/12/the-presidents-husband-hungary-gets-its-first-ever-first-gentleman",
+          "archive-date": "12 May 2022",
+          "archive-url": "https://web.archive.org/web/20220512081418/https://telex.hu/english/2022/05/12/the-presidents-husband-hungary-gets-its-first-ever-first-gentleman",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.sandorpalota.hu/en/curriculum-vitae",
+          "title": "Curriculum Vitae &#124; Köztársaság",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Honours and awards",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Ribbon": {
+              "text": "Order of Saint Stephen of Hungary - Ribbon bar Grand-Cross.svg"
+            },
+            "Name": {
+              "text": "Hungarian Order of Saint Stephen",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hungarian Order of Saint Stephen"
+                }
+              ]
+            },
+            "Year": {
+              "text": "2022",
+              "number": 2022
+            },
+            "Notes": {
+              "text": "According to the Constitution of Hungary's CCII/2011 law the president of Hungary receives the Hungarian Order of Saint Stephen ex-officio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitution of Hungary"
+                },
+                {
+                  "text": "ex-officio",
+                  "type": "internal",
+                  "page": "Ex officio member"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ex-officio"
+                ]
+              }
+            }
+          },
+          {
+            "Ribbon": {
+              "text": "HUN Order of Merit of the Hungarian Rep (civ) 1class Collar BAR.svg"
+            },
+            "Name": {
+              "text": "Grand Cross with Chain of the Hungarian Order of Merit",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hungarian Order of Merit"
+                }
+              ]
+            },
+            "Year": {
+              "text": "2022",
+              "number": 2022
+            },
+            "Notes": {
+              "text": "According to the Constitution of Hungary's CCII/2011 law the president of Hungary receives the Grand Cross with Chain of the Hungarian Order of Merit ex-officio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitution of Hungary"
+                },
+                {
+                  "text": "ex-officio",
+                  "type": "internal",
+                  "page": "Ex officio member"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ex-officio"
+                ]
+              }
+            }
+          },
+          {
+            "Ribbon": {
+              "text": "Legion of Honour - Knight (France).png"
+            },
+            "Name": {
+              "text": "Knight (Chevalier) of The National Order of the Legion of Honour",
+              "links": [
+                {
+                  "text": "The National Order of the Legion of Honour",
+                  "type": "internal",
+                  "page": "Legion of Honour"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Chevalier"
+                ]
+              }
+            },
+            "Year": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Notes": {
+              "text": "-"
+            }
+          },
+          {
+            "Ribbon": {
+              "text": "POL Order Zaslugi RP kl3 BAR.svg"
+            },
+            "Name": {
+              "text": "Commander's Cross of the Order of Merit of the Republic of Poland",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of Merit of the Republic of Poland"
+                }
+              ]
+            },
+            "Year": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Notes": {
+              "text": "-"
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "date": "2019-01-31",
+          "title": "Une proche d'Orban reçoit la Légion d'honneur",
+          "language": "fr",
+          "work": "Le Monde.fr",
+          "url": "https://www.lemonde.fr/international/article/2019/01/31/une-proche-d-orban-recoit-la-legion-d-honneur_5417298_3210.html",
+          "url-status": "live",
+          "access-date": "2020-03-07",
+          "archive-url": "https://web.archive.org/web/20190207141056/https://www.lemonde.fr/international/article/2019/01/31/une-proche-d-orban-recoit-la-legion-d-honneur_5417298_3210.html",
+          "archive-date": "7 February 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nadanie orderów. - Prawo.pl",
+          "url": "https://www.prawo.pl/akty/m-p-2020-45,18943879.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200115193056/https://www.prawo.pl/akty/m-p-2020-45,18943879.html",
+          "archive-date": "15 January 2020",
+          "access-date": "2020-03-07",
+          "website": "www.prawo.pl",
+          "lang": "pl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Lajos",
+          "first": "Csordás",
+          "date": "8 May 2014",
+          "title": "A zöld szárú kereszt lovagjai",
+          "url": "http://nol.hu/kultura/a-zold-szaru-kereszt-lovagjai-1460657",
+          "access-date": "21 August 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category-inline"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Minister for Family Affairs",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Office abolished",
+          "template": "s-non"
+        },
+        {
+          "before": "János Áder",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Hungary",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "heads of state of hungary"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "heads of state of the european union member states"
+        },
+        {
+          "template": "fourth orbán government"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

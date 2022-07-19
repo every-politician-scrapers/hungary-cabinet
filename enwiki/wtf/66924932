@@ -1,0 +1,390 @@
+{
+  "title": "László Palkovics",
+  "pageID": 66924932,
+  "categories": [
+    "Living people",
+    "1965 births",
+    "Place of birth missing (living people)",
+    "21st-century Hungarian politicians",
+    "Hungarian mechanical engineers",
+    "Government ministers of Hungary",
+    "Members of the Hungarian Academy of Sciences",
+    "People from Zalaegerszeg"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "László Palkovics (born 3 February 1965) is a Hungarian politician.",
+              "formatting": {
+                "bold": [
+                  "László Palkovics"
+                ]
+              }
+            },
+            {
+              "text": "He served as Minister for Innovation and Technology from 18 May 2018 to 24 May 2022, then as Minister of Technology and Industry since 24 May 2022 in the fourth and fifth cabinets of Viktor Orbán, respectively.",
+              "links": [
+                {
+                  "text": "fourth",
+                  "type": "internal",
+                  "page": "Fourth Orbán Government"
+                },
+                {
+                  "text": "fifth",
+                  "type": "internal",
+                  "page": "Fifth Orbán Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Viktor Orbán"
+                }
+              ]
+            },
+            {
+              "text": "Previously he functioned Secretary of State for Higher Education from 2014 to 2016 and Secretary of State for Education from 2016 to 2018 within the Ministry of Human Resources under minister Zoltán Balog, in the Third Orbán Government.",
+              "links": [
+                {
+                  "text": "Zoltán Balog",
+                  "type": "internal",
+                  "page": "Zoltán Balog (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Third Orbán Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Hungarian politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2021",
+          "template": "refimprove"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Palkovics László"
+          ],
+          "template": "hungarian name"
+        },
+        {
+          "year": "1965",
+          "month": "02",
+          "day": "03",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "László Palkovics"
+          },
+          "image": {
+            "text": "László Palkovics.jpg"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "order": {
+            "text": "Minister of Technology and Industry"
+          },
+          "term_start": {
+            "text": "24 May 2022"
+          },
+          "predecessor": {
+            "text": "himself (Innovation and Technology)"
+          },
+          "order2": {
+            "text": "Minister of Innovation and Technology"
+          },
+          "term_start2": {
+            "text": "18 May 2018"
+          },
+          "term_end2": {
+            "text": "24 May 2022"
+          },
+          "predecessor2": {
+            "text": "office established",
+            "formatting": {
+              "italic": [
+                "office established"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "himself (Technology and Industry) János Csák (Culture and Innovation)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "János Csák"
+              }
+            ]
+          },
+          "order3": {
+            "text": "Secretary of State for Education"
+          },
+          "minister3": {
+            "text": "Zoltán Balog",
+            "links": [
+              {
+                "text": "Zoltán Balog",
+                "type": "internal",
+                "page": "Zoltán Balog (politician)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "14 February 2016"
+          },
+          "term_end3": {
+            "text": "17 May 2018"
+          },
+          "predecessor3": {
+            "text": "himself (Higher Education) Judit Czunyi-Bertalan (Public Education)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Judit Czunyi-Bertalan"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "József Bódis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "József Bódis"
+              }
+            ]
+          },
+          "order4": {
+            "text": "Secretary of State for Higher Education"
+          },
+          "minister4": {
+            "text": "Zoltán Balog",
+            "links": [
+              {
+                "text": "Zoltán Balog",
+                "type": "internal",
+                "page": "Zoltán Balog (politician)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "15 July 2014"
+          },
+          "term_end4": {
+            "text": "14 February 2016"
+          },
+          "predecessor4": {
+            "text": "István Klinghammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "István Klinghammer"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "himself (Education)"
+          },
+          "birth_date": {
+            "text": "February 3, 1965"
+          },
+          "birth_place": {
+            "text": "Zalaegerszeg, Hungary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zalaegerszeg"
+              },
+              {
+                "text": "Hungary",
+                "type": "internal",
+                "page": "Hungarian People's Republic"
+              }
+            ]
+          },
+          "profession": {
+            "text": "mechanical engineer, politician"
+          },
+          "party": {
+            "text": "non-partisan"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Prof. Dr. László Palkovics",
+          "url": "http://www.scholze-simmel.at/ipts/wp-content/uploads/2011/07/Palkovics-CV.pdf",
+          "url-status": "live",
+          "access-date": "27 February 2021",
+          "website": "Werbegrafik Scholze-Simmel",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Palkovics has been Minister for Innovation and Technology since May 2018, and previously Undersecretary of State for Education."
+            },
+            {
+              "text": "As Government Commissioner, he is responsible for the development of the Debrecen Automotive Centre, the participation of Hungary in the manufacture of autonomous vehicles, the construction of the Zalaegerszeg Test Track and the formulation of the concept of the ELI Science Park in Szeged."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Earlier, he worked at Knorr-Bremse from 1995: initially, he was development director of the research and development institute of the Hungarian subsidiary, the director for electronic development in Europe of the company in Germany between 2001 and 2003, then he was appointed European research and system development director in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knorr-Bremse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His fields of research are the dynamics and stability of motor vehicles, controlled motor vehicle systems, smart vehicle and road systems, and applied control theory."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1996, he was elected founding secretary seneral of the Hungarian Automotive Association and became chairman of the National Technical Development Committee in 2001."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been teaching at the Budapest University of Technology and Economics since 1992.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Budapest University of Technology and Economics"
+                }
+              ]
+            },
+            {
+              "text": "He was head of the Department of Motor Vehicles of the Faculty of Transport Engineering between 1994 and 2002 and head of the Department of Motor Vehicles and Vehicle Manufacturing since 2013."
+            },
+            {
+              "text": "He held the position of deputy rector for strategy at the College of Kecskemét between 2009 and 2012."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been a research fellow at the Institute for Computer Science and Control of the Hungarian Academy of Sciences since 2000 and a research professor at Széchenyi István University since 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Széchenyi István University"
+                }
+              ]
+            },
+            {
+              "text": "He was a doctor of the Hungarian Academy of Sciences from 1998 and its corresponding member from 2006, then he has been its ordinary member since 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hungarian Academy of Sciences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He received the Széchenyi Prize in 2001, the International Dennis Gabor Award in 2009 and the Bánki Donát Award in 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Széchenyi Prize"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Dennis Gabor Award"
+                }
+              ]
+            },
+            {
+              "text": "He received the Officer Cross of the Hungarian Order of Merit in 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hungarian Order of Merit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He speaks four languages."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "László Palkovics",
+          "url": "https://2020.energydialogue.berlin/person/prof-dr-laszlo-palkovics/",
+          "url-status": "live",
+          "access-date": "27 February 2021",
+          "website": "Berlin Energy Transition Dialogue",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "fourth orbán government"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "hungary-politician-stub"
+        }
+      ]
+    }
+  ]
+}
