@@ -3,13 +3,13 @@
   "pageID": 750582,
   "categories": [
     "Viktor Orbán",
-    "Members of the Fourth Orbán Government",
     "1963 births",
-    "Alumni of Pembroke College, Oxford",
+    "Living people",
+    "People from Székesfehérvár",
+    "Prime Ministers of Hungary",
     "Critics of Islamism",
     "Critics of multiculturalism",
     "Conservatism in Hungary",
-    "Eötvös Loránd University alumni",
     "European People's Party politicians",
     "Far-right politics in Hungary",
     "Fidesz politicians",
@@ -17,8 +17,12 @@
     "Hungarian Calvinist and Reformed Christians",
     "Hungarian footballers",
     "Hungarian nationalists",
+    "Hungarian national conservatives",
     "Hungarian sportsperson-politicians",
-    "Living people",
+    "Association footballers not categorized by position",
+    "Alumni of Pembroke College, Oxford",
+    "Eötvös Loránd University alumni",
+    "Members of the Fourth Orbán Government",
     "Members of the National Assembly of Hungary (1990–1994)",
     "Members of the National Assembly of Hungary (1994–1998)",
     "Members of the National Assembly of Hungary (1998–2002)",
@@ -28,10 +32,8 @@
     "Members of the National Assembly of Hungary (2014–2018)",
     "Members of the National Assembly of Hungary (2018–2022)",
     "Members of the National Assembly of Hungary (2022–2026)",
-    "People from Székesfehérvár",
-    "Prime Ministers of Hungary",
-    "Association footballers not categorized by position",
-    "Hungarian national conservatives"
+    "20th-century Hungarian politicians",
+    "21st-century Hungarian politicians"
   ],
   "sections": [
     {
@@ -4003,6 +4005,9 @@
                   "Politico"
                 ]
               }
+            },
+            {
+              "text": "Orban frequently emphasizes the importance of Christianity, although he and the overwhelming majority of Hungarians do not attend church regularly."
             }
           ]
         },
@@ -5250,6 +5255,23 @@
         {
           "sentences": [
             {
+              "text": "Orban has been criticized for engineering the 2015 European migrant crisis for his own political gain.",
+              "links": [
+                {
+                  "text": "2015 European migrant crisis",
+                  "type": "internal",
+                  "page": "European migrant crisis"
+                }
+              ]
+            },
+            {
+              "text": "Specifically, he has been accused of mistreating migrants within Hungary and later sending many to Western Europe in an effort to stoke far-right sympathies in Western European countries."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "The Orbán government began to attack Soros and his NGOs in early 2017, particularly for his support for more open immigration."
             },
             {
@@ -5295,20 +5317,23 @@
         {
           "sentences": [
             {
-              "text": "Orban has been criticized for engineering the 2015 European migrant crisis for his own political gain.",
+              "text": "Journalist Andrew Marantz argues that whether or not George Soros was doing any actual harm to Hungary or conservative values, it was important to have a face to attack in a political campaign rather than abstract ideas like \"globalism, multiculturalism, bureaucracy in Brussels\"; and that this was a strategy explained to Orban by political consultant Arthur J. Finkelstein.",
               "links": [
                 {
-                  "text": "2015 European migrant crisis",
                   "type": "internal",
-                  "page": "European migrant crisis"
+                  "page": "Arthur J. Finkelstein"
                 }
               ]
-            },
-            {
-              "text": "Specifically, he has been accused of mistreating migrants within Hungary and later sending many to Western Europe in an effort to stoke far-right sympathies in Western European countries."
             }
           ]
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Anti-Soros theme"
+          }
+        ]
       ],
       "references": [
         {
@@ -5319,6 +5344,28 @@
           "last": "Gergely",
           "date": "30 October 2015",
           "access-date": "12 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2 March 2016",
+          "title": "Viktor Orban Uses Migrant Crisis to Shore Up His Sagging Popularity",
+          "url": "https://www.piie.com/commentary/op-eds/viktor-orban-uses-migrant-crisis-shore-his-sagging-popularity",
+          "access-date": "28 November 2021",
+          "website": "PIIE",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Beauchamp",
+          "first": "Zack",
+          "date": "18 September 2015",
+          "title": "\"Like animals:\" why Hungary is herding refugees into miserable detention camps",
+          "url": "https://www.vox.com/2015/9/18/9349081/syrian-refugees-hungary-viktor-orban",
+          "access-date": "28 November 2021",
+          "website": "Vox",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
@@ -5377,28 +5424,6 @@
           "website": "The Guardian",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "date": "2 March 2016",
-          "title": "Viktor Orban Uses Migrant Crisis to Shore Up His Sagging Popularity",
-          "url": "https://www.piie.com/commentary/op-eds/viktor-orban-uses-migrant-crisis-shore-his-sagging-popularity",
-          "access-date": "28 November 2021",
-          "website": "PIIE",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Beauchamp",
-          "first": "Zack",
-          "date": "18 September 2015",
-          "title": "\"Like animals:\" why Hungary is herding refugees into miserable detention camps",
-          "url": "https://www.vox.com/2015/9/18/9349081/syrian-refugees-hungary-viktor-orban",
-          "access-date": "28 November 2021",
-          "website": "Vox",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -6278,10 +6303,10 @@
       ],
       "templates": [
         {
-          "template": "wikiquote-inline"
+          "template": "commons category-inline"
         },
         {
-          "template": "commons category-inline"
+          "template": "wikiquote-inline"
         },
         {
           "list": [
@@ -6357,10 +6382,16 @@
           "template": "viktor orbán"
         },
         {
+          "template": "navboxes top"
+        },
+        {
           "template": "prime ministers of hungary"
         },
         {
-          "template": "european council"
+          "template": "cabinet of hungary"
+        },
+        {
+          "template": "fourth orbán government"
         },
         {
           "template": "nato leaders"
@@ -6369,10 +6400,10 @@
           "template": "heads of government of republics"
         },
         {
-          "template": "cabinet of hungary"
+          "template": "european council"
         },
         {
-          "template": "fourth orbán government"
+          "template": "navboxes bottom"
         },
         {
           "template": "authority control"
