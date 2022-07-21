@@ -3772,7 +3772,97 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As stated by The Guardian, the \"Hungarian government doubled family spending between 2010 and 2019,\" intending to achieve \"a lasting turn in demographic processes by 2030.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Guardian"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Guardian"
+                ]
+              }
+            },
+            {
+              "text": "Orbán has espoused an anti-immigration platform, and has also advocated for increased investment into \"Family First.\""
+            },
+            {
+              "text": "Orbán has disregarded the European Union's attempts to promote integration as a key solution to population distribution problems in Europe."
+            },
+            {
+              "text": "He has also supported investments into the country's low birth rates."
+            },
+            {
+              "text": "Orbán has tapped into the \"great replacement theory\" which emulates a nativist approach to rejecting foreign immigration out of fear of replacement by immigrants.",
+              "links": [
+                {
+                  "text": "nativist",
+                  "type": "internal",
+                  "page": "nativism (politics)"
+                }
+              ]
+            },
+            {
+              "text": "He has stated that \"If Europe is not going to be populated by Europeans in the future and we take this as given, then we are speaking about an exchange of populations, to replace the population of Europeans with others.\""
+            },
+            {
+              "text": "The Guardian stated that \"This year the Hungarian government introduced a 10 million forint (£27,000) interest-free loan for families, which does not have to be paid back if the couple has three children.\"",
+              "links": [
+                {
+                  "text": "forint",
+                  "type": "internal",
+                  "page": "forint"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Guardian"
+                ]
+              }
+            },
+            {
+              "text": "In July 2020, Orbán expressed that he still expects arguments over linking of disbursement of funds of the European Union to rule-of-law criteria but remarked in a state radio interview that they \"didn't win the war, we (they) won an important battle.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            },
+            {
+              "text": "In August 2020, Orbán whilst speaking at an event to inaugurate a monument commemorating the Treaty of Trianon, said Central European nations should come together to preserve their Christian roots as western Europe experiments with same-sex families, immigration and atheism."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite the anti-immigration rhetoric from Orbán, it has been reported that Hungary has actually increased immigration of foreign workers into the country."
+            }
+          ]
         }
+      ],
+      "images": [
+        {
+          "file": "File:Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orbán_in_Warsaw_(2021.12.03)_01.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orb%C3%A1n_in_Warsaw_(2021.12.03)_01.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orb%C3%A1n_in_Warsaw_(2021.12.03)_01.jpg",
+          "caption": "Orbán and Polish Prime Minister Mateusz Morawiecki in December 2021",
+          "links": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Opposition to immigration, support for higher birth rates"
+          }
+        ]
       ],
       "references": [
         {
@@ -3810,6 +3900,68 @@
           "title": "Orbán and US right to bond at Cpac in Hungary over 'great replacement' ideology",
           "url": "https://www.theguardian.com/world/2022/may/18/cpac-conference-budapest-hungary-viktor-orban-speaker",
           "newspaper": "The Guardian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Walker",
+          "first": "Shaun",
+          "title": "Viktor Orbán trumpets Hungary's 'procreation, not immigration' policy",
+          "url": "https://www.theguardian.com/world/2019/sep/06/viktor-orban-trumpets-far-right-procreation-anti-immigration-policy",
+          "date": "6 September 2019",
+          "newspaper": "The Guardian",
+          "access-date": "3 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2020-07-24/orban-says-he-won-battle-not-war-over-rule-of-law-at-eu-summit",
+          "title": "Viktor Orban Expects More Battles Over Rule of Law",
+          "access-date": "24 July 2020",
+          "website": "Bloomberg",
+          "first": "Zoltan",
+          "last": "Simon",
+          "date": "24 July 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nbcnews.com/feature/nbc-out/hungary-s-orban-calls-central-europe-unite-around-christian-roots-n1237460",
+          "title": "Hungary's Orban calls for central Europe to unite around Christian roots",
+          "date": "20 August 2020",
+          "access-date": "20 August 2020",
+          "website": "NBC News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.wsj.com/articles/hungary-loudly-opposed-to-immigration-opens-doors-to-more-foreign-workers-11567944008",
+          "title": "Hungary, Loudly Opposed to Immigration, Opens Doors to More Foreign Workers",
+          "last": "Hungary",
+          "first": "Bojan Pancevski in Budapest and Adam Bihari in Mór",
+          "newspaper": "Wall Street Journal",
+          "date": "8 September 2019",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://hungarytoday.hu/immigration-foreigners-hungary-work-growing/",
+          "title": "Number of Foreigners Coming to Hungary to Work Growing",
+          "last": "Vass",
+          "first": "Ábrahám",
+          "date": "24 September 2019",
+          "website": "Hungary Today",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.infomigrants.net/en/post/19841/in-orban-s-hungary-more-migrants-due-to-labor-shortage",
+          "title": "In Orban's Hungary, more migrants due to labor shortage",
+          "date": "30 September 2019",
+          "website": "InfoMigrants",
+          "language": "en",
           "template": "citation",
           "type": "news"
         },
@@ -4008,6 +4160,15 @@
             },
             {
               "text": "Orban frequently emphasizes the importance of Christianity, although he and the overwhelming majority of Hungarians do not attend church regularly."
+            },
+            {
+              "text": "His authoritarian appeal to \"global conservatives\" has been summarized by Lauren Stokes as: \"I alone can save you from the ravages of Islamization and totalitarian progressivism -- and in the face of all that, who has time for checks and balances and rules?\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Islamization"
+                }
+              ]
             }
           ]
         },
@@ -4272,7 +4433,7 @@
         {
           "sentences": [
             {
-              "text": "Orbán has promoted the Great Replacement conspiracy theory.",
+              "text": "As mentioned above, Orbán has promoted the Great Replacement conspiracy theory.",
               "links": [
                 {
                   "text": "the Great Replacement",
@@ -4282,7 +4443,7 @@
               ]
             },
             {
-              "text": "Le Journal du Dimanche reported on Orbán's explicit adoption of the conspiracy theory, after he claimed; \"if we let tens of millions of migrants travel to Europe from Africa and the Middle East... the young people of Western Europe will know the day when they will be in a minority in their own country.\"",
+              "text": "Le Journal du Dimanche reported on Orbán's explicit adoption of the conspiracy theory, after he claimed; \"if we let tens of millions of migrants travel to Europe from Africa and the Middle East ... the young people of Western Europe will know the day when they will be in a minority in their own country.\"",
               "links": [
                 {
                   "type": "internal",
@@ -4330,74 +4491,33 @@
         {
           "sentences": [
             {
-              "text": "Despite the anti-immigration rhetoric from Orbán, it has been reported that Hungary has actually increased immigration of foreign workers into the country."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "As stated by The Guardian, the \"Hungarian government doubled family spending between 2010 and 2019,\" intending to achieve \"a lasting turn in demographic processes by 2030.\"",
+              "text": "In support of Orban and his ideas a think tank called the Danube Institute was established in 2013, funded by the Batthyány Foundation, which is \"funded entirely by the Hungarian government\".",
               "links": [
                 {
                   "type": "internal",
-                  "page": "The Guardian"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "The Guardian"
-                ]
-              }
-            },
-            {
-              "text": "Orbán has espoused an anti-immigration platform, and has also advocated for increased investment into \"Family First.\""
-            },
-            {
-              "text": "Orbán has disregarded the European Union's attempts to promote integration as a key solution to population distribution problems in Europe."
-            },
-            {
-              "text": "He has also supported investments into the country's low birth rates."
-            },
-            {
-              "text": "Orbán has tapped into the \"great replacement theory\" which emulates a nativist approach to rejecting foreign immigration out of fear of replacement by immigrants.",
-              "links": [
-                {
-                  "text": "nativist",
-                  "type": "internal",
-                  "page": "nativism (politics)"
+                  "page": "Danube Institute"
                 }
               ]
             },
             {
-              "text": "He has stated that \"If Europe is not going to be populated by Europeans in the future and we take this as given, then we are speaking about an exchange of populations, to replace the population of Europeans with others.\""
-            },
-            {
-              "text": "The Guardian stated that \"This year the Hungarian government introduced a 10 million forint (£27,000) interest-free loan for families, which does not have to be paid back if the couple has three children.\"",
-              "links": [
-                {
-                  "text": "forint",
-                  "type": "internal",
-                  "page": "forint"
-                }
-              ],
+              "text": "Batthyány \"sponsors international conferences and three handsomely designed periodicals, all in English: European Conservative, Hungarian Review, and Hungarian Conservative\".",
               "formatting": {
                 "italic": [
-                  "The Guardian"
+                  "European Conservative",
+                  "Hungarian Review",
+                  "Hungarian Conservative"
                 ]
               }
             },
             {
-              "text": "In July 2020, Orbán expressed that he still expects arguments over linking of disbursement of funds of the European Union to rule-of-law criteria but remarked in a state radio interview that they \"didn't win the war, we (they) won an important battle.\"",
+              "text": "In 2020 the institute began hosting fellows -- \"writers and scholars from abroad who were invited to Budapest for a few weeks or months, given a stipend and a comfortable apartment, and asked to work on articles or books that might help the cause\".",
               "links": [
                 {
+                  "text": "fellows",
                   "type": "internal",
-                  "page": "European Union"
+                  "page": "fellow"
                 }
               ]
-            },
-            {
-              "text": "In August 2020, Orbán whilst speaking at an event to inaugurate a monument commemorating the Treaty of Trianon, said Central European nations should come together to preserve their Christian roots as western Europe experiments with same-sex families, immigration and atheism."
             }
           ]
         },
@@ -4431,6 +4551,18 @@
         {
           "sentences": [
             {
+              "text": "In August 2021, Tucker Carlson hosted some episodes of his show ‘Tucker Carlson Tonight,’ from Budapest, praising Orban as the one elected leader \"on the face of the earth, ... who publicly identifies as a Western-style conservative\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tucker Carlson"
+                }
+              ]
+            },
+            {
+              "text": "In a fifteen minute one-on-one interview with Orbán, he asked not \"a single challenging question\", according to Andrew Marantz."
+            },
+            {
               "text": "The 2022 Conservative Political Action Conference, the \"flagship conference\" of American conservatism, will be held in Hungary, and \"sycophantic praise\" of Orban is alleged to be common on the U.S. cable TV channel Fox News.",
               "links": [
                 {
@@ -4444,16 +4576,21 @@
               ]
             },
             {
-              "text": "Orban's authoritarian appeal to \"global conservatives\" has been summarized by Lauren Stokes as: \"I alone can save you from the ravages of Islamization and totalitarian progressivism -- and in the face of all that, who has time for checks and balances and rules?\"",
+              "text": "In Florida, the law known as the “Don’t Say Gay” bill promoted by Governor Ron DeSantis resembles a law banning sex education involving L.G.B.T.Q. topics passed in 2021.",
               "links": [
                 {
+                  "text": "Don’t Say Gay” bill",
                   "type": "internal",
-                  "page": "Islamization"
+                  "page": "Florida Parental Rights in Education Act"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ron DeSantis"
                 }
               ]
             },
             {
-              "text": "In Florida, the law known as the “[[Disney and Florida's Parental Rights in Education Act"
+              "text": "According to DeSantis's press secretary, “We were watching the Hungarians,” and were  inspired by their  legislation."
             }
           ]
         }
@@ -4486,19 +4623,12 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_With_Prime_Minister_Orban_-_47013210012.jpg",
           "caption": "Orbán with Mike Pompeo in Budapest in February 2019",
           "links": []
-        },
-        {
-          "file": "File:Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orbán_in_Warsaw_(2021.12.03)_01.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orb%C3%A1n_in_Warsaw_(2021.12.03)_01.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Morawiecki_discussed_the_Poland-Belarus_border_security_with_Viktor_Orb%C3%A1n_in_Warsaw_(2021.12.03)_01.jpg",
-          "caption": "Orbán and Polish Prime Minister Mateusz Morawiecki in December 2021",
-          "links": []
         }
       ],
       "lists": [
         [
           {
-            "text": "Don’t Say Gay” bill]] promoted by Governor Rod DeSantis resembles a law banning sex education involving L.G.B.T.Q. topics passed in 2021. According to DeSantis's press secretary,  “We were watching the Hungarians,” and were  inspired by their  legislation."
+            "text": "In United States"
           }
         ]
       ],
@@ -4742,68 +4872,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.wsj.com/articles/hungary-loudly-opposed-to-immigration-opens-doors-to-more-foreign-workers-11567944008",
-          "title": "Hungary, Loudly Opposed to Immigration, Opens Doors to More Foreign Workers",
-          "last": "Hungary",
-          "first": "Bojan Pancevski in Budapest and Adam Bihari in Mór",
-          "newspaper": "Wall Street Journal",
-          "date": "8 September 2019",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://hungarytoday.hu/immigration-foreigners-hungary-work-growing/",
-          "title": "Number of Foreigners Coming to Hungary to Work Growing",
-          "last": "Vass",
-          "first": "Ábrahám",
-          "date": "24 September 2019",
-          "website": "Hungary Today",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.infomigrants.net/en/post/19841/in-orban-s-hungary-more-migrants-due-to-labor-shortage",
-          "title": "In Orban's Hungary, more migrants due to labor shortage",
-          "date": "30 September 2019",
-          "website": "InfoMigrants",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Walker",
-          "first": "Shaun",
-          "title": "Viktor Orbán trumpets Hungary's 'procreation, not immigration' policy",
-          "url": "https://www.theguardian.com/world/2019/sep/06/viktor-orban-trumpets-far-right-procreation-anti-immigration-policy",
-          "date": "6 September 2019",
-          "newspaper": "The Guardian",
-          "access-date": "3 May 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2020-07-24/orban-says-he-won-battle-not-war-over-rule-of-law-at-eu-summit",
-          "title": "Viktor Orban Expects More Battles Over Rule of Law",
-          "access-date": "24 July 2020",
-          "website": "Bloomberg",
-          "first": "Zoltan",
-          "last": "Simon",
-          "date": "24 July 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nbcnews.com/feature/nbc-out/hungary-s-orban-calls-central-europe-unite-around-christian-roots-n1237460",
-          "title": "Hungary's Orban calls for central Europe to unite around Christian roots",
-          "date": "20 August 2020",
-          "access-date": "20 August 2020",
-          "website": "NBC News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Schnell",
           "first": "Mychael",
           "date": "3 January 2022",
@@ -4839,6 +4907,17 @@
           "type": "news"
         },
         {
+          "last1": "Marantz",
+          "first1": "Andrew",
+          "title": "The Illiberal Order",
+          "journal": "The New Yorker",
+          "date": "4 July 2022",
+          "url": "https://www.newyorker.com/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future",
+          "access-date": "14 July 2022",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
           "last": "Orbán",
           "first": "Viktor",
           "title": "Prime Minister Viktor Orbán's speech at the 25th Bálványos Summer Free University and Student Camp",
@@ -4858,17 +4937,6 @@
           "journal": "Rolling Stone",
           "date": "11 July 2022",
           "url": "https://www.rollingstone.com/politics/politics-news/viktor-orban-cpac-2022-hungary-1380793/",
-          "access-date": "14 July 2022",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last1": "Marantz",
-          "first1": "Andrew",
-          "title": "The Illiberal Order",
-          "journal": "The New Yorker",
-          "date": "4 July 2022",
-          "url": "https://www.newyorker.com/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future",
           "access-date": "14 July 2022",
           "template": "citation",
           "type": "journal"
@@ -5456,16 +5524,12 @@
                   "Nations in Transit 2020"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "\"International observers\" have called elections in Hungary under Orban “free but not fair”, due to manipulation of electoral districts and \"undisclosed infusions\" of funds for political campaigns."
             },
             {
-              "text": "In the April 2022 election, Orban's Fidesz party won 54% per cent of the vote but 83% of the districts, due to \"gerrymandering\" (political manipulation of electoral district boundaries to creating undue advantage for a political group), and \"other tweaks\" to Hungarian  electoral rules.",
+              "text": "In the April 2022 election, Orban's Fidesz party won 54% per cent of the vote but 83% of the districts, due to gerrymandering (political manipulation of electoral district boundaries to creating undue advantage for a political group), and \"other tweaks\" to Hungarian electoral rules.",
               "links": [
                 {
                   "type": "internal",
@@ -5483,7 +5547,7 @@
         {
           "sentences": [
             {
-              "text": "Unlike many strongmen, Orban has not taken advantage of a crisis to amass power, nor used a coup to come to power, but slowly  methodically and legally, with his  pro-democracy opposition being compared to the proverbial frog that is slowly boiled in a pot and so never jumps.",
+              "text": "Unlike many strongmen, Orban has not taken advantage of a crisis to amass power, nor used a coup to come to power, but made himself safe from the danger of lossing an election slowly, methodically and legally; with his pro-democracy opposition being compared (by Tibor Dessewffy, a sociology professor at Eötvös Loránd University), to the proverbial frog that is slowly boiled in a pot and so never jumps.",
               "links": [
                 {
                   "text": "frog that is slowly boiled in a pot",
@@ -5503,10 +5567,7 @@
               "text": "Civic institutions such as courts, universities, and the apparatus necessary for free elections remain, but have been \"patiently debilitated, delegitimatized, hollowed out\", controlled by Orban loyalists."
             },
             {
-              "text": "Domination of the media by Orban"
-            },
-            {
-              "text": "prevents the public from hearing what critics have to say."
+              "text": "Domination of the media by Orban prevents the public from hearing critics poiint of view."
             },
             {
               "text": "In 2022, Orban's opponent was given but five minutes on television \"to make his case to the voters\"."
@@ -5516,13 +5577,22 @@
         {
           "sentences": [
             {
-              "text": "An example of the discreet, below-the-radar process of accumulating power by Orban and his party was the creation of a  special police force that started as a small anti-terror unit."
+              "text": "An example of the discreet, below-the-radar process of accumulating power by Orban and his party was the creation of a special police force that started as a small anti-terror unit."
             },
             {
               "text": "The unit grew and became more powerful \"bit by bit in disparate clauses buried in unrelated laws\"."
             },
             {
-              "text": "According to Princeton Prof Kim Lane Scheppele, I was reading article 61 of a bill on public waterworks, literally, and I came across a line that said oh, by the way, the anti-terror unit now gets to collect personal information on all water utility customers, which basically means everyone in the country, without notifying them."
+              "text": "According to Princeton Professor Kim Lane Scheppele,",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kim Lane Scheppele"
+                }
+              ]
+            },
+            {
+              "text": "I was reading article 61 of a bill on public waterworks, literally, and I came across a line that said oh, by the way, the anti-terror unit now gets to collect personal information on all water utility customers, which basically means everyone in the country, without notifying them."
             },
             {
               "text": "Scheppele contends the unit now has enough power to function \"essentially\" as Orban's \"secret police\"."
@@ -5538,6 +5608,17 @@
           "website": "Freedom House",
           "language": "en",
           "access-date": "6 May 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "BÁLINT MAGYAR",
+          "last2": "BÁLINT MADLOVICS",
+          "title": "Hungary’s Manipulated Election",
+          "url": "https://www.project-syndicate.org/commentary/hungary-orban-reelection-manipulated-election-by-balint-magyar-and-balint-madlovics-2022-04",
+          "website": "Project Syndicate",
+          "access-date": "20 July 2022",
+          "date": "4 April 2022",
           "template": "citation",
           "type": "web"
         },
