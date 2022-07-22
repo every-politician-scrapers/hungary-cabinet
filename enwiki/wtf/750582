@@ -385,10 +385,10 @@
             "text": "Viktor Orbán"
           },
           "image": {
-            "text": "Orbán Viktor 2018.jpg"
+            "text": "Viktor Orbán 2022.jpg"
           },
           "caption": {
-            "text": "Orbán in 2018"
+            "text": "Orbán in 2022"
           },
           "office": {
             "text": "Prime Minister of Hungary",
@@ -492,10 +492,9 @@
             ]
           },
           "office2": {
-            "text": "President of the Fidesz political party",
+            "text": "President of the Fidesz",
             "links": [
               {
-                "text": "Fidesz political party",
                 "type": "internal",
                 "page": "Fidesz"
               }
