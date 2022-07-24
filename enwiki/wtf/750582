@@ -3012,10 +3012,15 @@
           "type": "news"
         },
         {
+          "first": "Judy",
+          "last": "Dempsey",
+          "url": "https://www.nytimes.com/2011/04/19/world/europe/19iht-hungary19.html",
+          "title": "Hungarian Parliament Approves New Constitution",
+          "work": "The New York Times",
+          "date": "18 April 2011",
+          "access-date": "23 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
@@ -3968,6 +3973,10 @@
           "url": "https://www.npr.org/2019/05/13/722620996/in-trump-hungarys-viktor-orban-has-a-rare-ally-in-the-oval-office",
           "title": "In Trump, Hungary's Viktor Orban Has a Rare Ally in the Oval Office",
           "newspaper": "NPR.org",
+          "first": "Joanna",
+          "last": "Kakissis",
+          "date": "13 May 2019",
+          "access-date": "23 July 2022",
           "template": "citation",
           "type": "news"
         }
@@ -5627,7 +5636,7 @@
           "title": "Does Hungary Offer a Glimpse of Our Authoritarian Future?",
           "url": "https://www.newyorker.com/magazine/2022/07/04/does-hungary-offer-a-glimpse-of-our-authoritarian-future",
           "access-date": "18 July 2022",
-          "agency": "The New Yorker",
+          "work": "The New Yorker",
           "date": "27 June 2022",
           "template": "citation",
           "type": "news"
